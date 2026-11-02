@@ -1,0 +1,24 @@
+{
+ "title": "Ramayana",
+ "mark": "रामायण",
+ "copy": {
+  "note": "A modern prose retelling, in story order. Bala Kanda is told in detail; the later kandas are shorter. Later-tradition scenes are named as such.",
+  "doneTitle": "The Ramayana is complete",
+  "doneBody": "The story rests at the Sarayu. The feed does not return to the beginning."
+ },
+ "kandas": [
+  "Bala Kanda",
+  "Ayodhya Kanda",
+  "Aranya Kanda",
+  "Kishkindha Kanda",
+  "Sundara Kanda",
+  "Yuddha Kanda",
+  "Uttara Kanda"
+ ],
+ "story": {
+  "gateTitle": "This part ends",
+  "gateBody": "{from} ends here. {to} is next, when you are ready.",
+  "epicEnd": "The end of the epic",
+  "nextWord": "Next"
+ }
+}

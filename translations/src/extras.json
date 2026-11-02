@@ -1,0 +1,814 @@
+{
+ "glossary": {
+  "dharma": {
+   "name": "Dharma",
+   "text": "Right action: the duty that fits who you are and where you stand, and the order that holds the world together. The whole epic tests what dharma asks of each person.",
+   "rel": []
+  },
+  "rakshasa": {
+   "name": "Rakshasa",
+   "text": "Powerful beings of the night who can change shape. Ravana is their king. Not all are cruel: Vibhishana, a rakshasa, chooses dharma.",
+   "rel": []
+  },
+  "vanara": {
+   "name": "Vanara",
+   "text": "The forest people of Kishkindha, shown as monkey-like, brave and quick. Hanuman, Sugriva and Angada are vanaras; they become Rama's army.",
+   "rel": []
+  },
+  "ashram": {
+   "name": "Ashram",
+   "text": "A forest retreat where sages live simply, teach and pray. Much of the story happens in or near one.",
+   "rel": []
+  },
+  "astra": {
+   "name": "Astra",
+   "text": "A divine weapon called up by a mantra rather than simply thrown. It is given only to someone trusted to use it rightly.",
+   "rel": []
+  },
+  "mantra": {
+   "name": "Mantra",
+   "text": "Sacred words or sounds, spoken with focus, believed to carry power.",
+   "rel": []
+  },
+  "shloka": {
+   "name": "Shloka",
+   "text": "A Sanskrit verse of two lines, 32 syllables. Tradition says Valmiki spoke the first one in grief, and the whole Ramayana is written in it.",
+   "rel": []
+  },
+  "vina": {
+   "name": "Vina",
+   "text": "A stringed instrument, one of India's oldest. Narada the sage always carries one.",
+   "rel": []
+  },
+  "kanda": {
+   "name": "Kanda",
+   "text": "A book or section of the epic. Valmiki's Ramayana has seven: Bala, Ayodhya, Aranya, Kishkindha, Sundara, Yuddha and Uttara.",
+   "rel": []
+  },
+  "payasam": {
+   "name": "Payasam",
+   "text": "Sweet rice cooked in milk, still made at Indian festivals. In the story, a divine bowl of it brings the birth of four sons.",
+   "rel": []
+  },
+  "ayodhya": {
+   "name": "Ayodhya",
+   "text": "Rama's city, capital of Kosala on the Sarayu river. A real city in Uttar Pradesh, India, where Diwali is celebrated as Rama's homecoming.",
+   "rel": []
+  },
+  "lanka": {
+   "name": "Lanka",
+   "text": "Ravana's golden island city across the sea from India's southern tip, traditionally linked with Sri Lanka.",
+   "rel": []
+  },
+  "mithila": {
+   "name": "Mithila",
+   "text": "King Janaka's kingdom and Sita's home, in today's Bihar and southern Nepal. Its folk painting style, Madhubani, often shows Rama and Sita.",
+   "rel": []
+  },
+  "kishkindha": {
+   "name": "Kishkindha",
+   "text": "The vanara kingdom among rocky hills, linked with the area around Hampi in Karnataka.",
+   "rel": []
+  },
+  "ganga": {
+   "name": "Ganga",
+   "text": "India's most sacred river, also honoured as a goddess. The epic tells how she came down from heaven.",
+   "rel": []
+  },
+  "sarayu": {
+   "name": "Sarayu",
+   "text": "The river that runs past Ayodhya. The story begins and ends beside it.",
+   "rel": []
+  },
+  "brahma": {
+   "name": "Brahma",
+   "text": "The creator god. He grants boons, and it is his blessing that sets Valmiki to compose the epic.",
+   "rel": []
+  },
+  "vishnu": {
+   "name": "Vishnu",
+   "text": "The god who preserves the world. Rama is honoured as his avatar, a form taken on earth to restore dharma.",
+   "rel": []
+  },
+  "shiva": {
+   "name": "Shiva",
+   "text": "The great ascetic god of destruction and renewal. His mighty bow is the one Rama lifts and breaks to win Sita.",
+   "rel": []
+  },
+  "indra": {
+   "name": "Indra",
+   "text": "King of the gods, lord of storms and rain.",
+   "rel": []
+  },
+  "rama": {
+   "name": "Rama",
+   "role": "Prince of Ayodhya, the hero",
+   "text": "Eldest son of King Dasharatha. He gives up a throne to keep his father's word, and is honoured as the ideal of right conduct.",
+   "rel": [
+    "wife",
+    "father",
+    "mother",
+    "brother"
+   ]
+  },
+  "sita": {
+   "name": "Sita",
+   "role": "Princess of Mithila, Rama's wife",
+   "text": "Found in a furrow by King Janaka and raised as his daughter. She chooses exile with Rama and stays unbroken as Ravana's captive.",
+   "rel": [
+    "husband",
+    "father",
+    "son",
+    "son"
+   ]
+  },
+  "lakshmana": {
+   "name": "Lakshmana",
+   "role": "Rama's devoted younger brother",
+   "text": "Son of Sumitra. He follows Rama into exile and guards him and Sita for fourteen years.",
+   "rel": [
+    "brother",
+    "mother",
+    "wife",
+    "twin"
+   ]
+  },
+  "bharata": {
+   "name": "Bharata",
+   "role": "Rama's brother, son of Kaikeyi",
+   "text": "The throne is won for him, and he refuses it. He rules only as Rama's stand-in, with Rama's sandals on the seat.",
+   "rel": [
+    "mother",
+    "brother"
+   ]
+  },
+  "shatrughna": {
+   "name": "Shatrughna",
+   "role": "Youngest brother",
+   "text": "Lakshmana's twin, who stays at Bharata's side in Ayodhya.",
+   "rel": [
+    "twin",
+    "mother"
+   ]
+  },
+  "dasharatha": {
+   "name": "Dasharatha",
+   "role": "King of Ayodhya, Rama's father",
+   "text": "A great king bound by two old promises to Queen Kaikeyi. Keeping his word costs him his son and his life.",
+   "rel": [
+    "queen",
+    "queen",
+    "queen",
+    "son"
+   ]
+  },
+  "kausalya": {
+   "name": "Kausalya",
+   "role": "Senior queen, Rama's mother",
+   "text": "Dasharatha's first queen, who must watch her son leave for the forest.",
+   "rel": [
+    "son",
+    "husband"
+   ]
+  },
+  "kaikeyi": {
+   "name": "Kaikeyi",
+   "role": "Queen, Bharata's mother",
+   "text": "Once she saved the king in battle and earned two boons. Urged by Manthara, she uses them to exile Rama and crown Bharata.",
+   "rel": [
+    "son",
+    "maid",
+    "husband"
+   ]
+  },
+  "sumitra": {
+   "name": "Sumitra",
+   "role": "Queen, mother of the twins",
+   "text": "Mother of Lakshmana and Shatrughna, who tells Lakshmana to treat the forest as Ayodhya.",
+   "rel": [
+    "son",
+    "son"
+   ]
+  },
+  "urmila": {
+   "name": "Urmila",
+   "role": "Sita's sister, Lakshmana's wife",
+   "text": "She stays behind for fourteen years while Lakshmana serves in the forest, a quiet sacrifice many retellings honour.",
+   "rel": [
+    "husband",
+    "sister"
+   ]
+  },
+  "manthara": {
+   "name": "Manthara",
+   "role": "Kaikeyi's maid",
+   "text": "Her whispered warnings turn Kaikeyi against Rama's coronation.",
+   "rel": [
+    "mistress"
+   ]
+  },
+  "vishwamitra": {
+   "name": "Vishwamitra",
+   "role": "Warrior-king turned sage, Rama's teacher",
+   "text": "He takes the young Rama and Lakshmana to the forest, gives them divine weapons, and leads them to Mithila.",
+   "rel": [
+    "student"
+   ]
+  },
+  "vashishtha": {
+   "name": "Vashishtha",
+   "role": "Royal priest of Ayodhya",
+   "text": "The family's teacher and counsellor, steady in every crisis.",
+   "rel": [
+    "king he serves"
+   ]
+  },
+  "janaka": {
+   "name": "Janaka",
+   "role": "King of Mithila, Sita's father",
+   "text": "A philosopher-king. He finds Sita while ploughing and sets the test of Shiva's bow for her hand.",
+   "rel": [
+    "daughter",
+    "daughter"
+   ]
+  },
+  "valmiki": {
+   "name": "Valmiki",
+   "role": "The poet of the Ramayana",
+   "text": "Called the first poet, adi kavi. He composes the epic, shelters Sita in exile, and teaches it to her sons.",
+   "rel": [
+    "told him the story",
+    "student"
+   ]
+  },
+  "narada": {
+   "name": "Narada",
+   "role": "Wandering divine sage",
+   "text": "A traveller between worlds with a vina, who answers Valmiki's question with Rama's name.",
+   "rel": [
+    "listener"
+   ]
+  },
+  "hanuman": {
+   "name": "Hanuman",
+   "role": "Vanara hero, Rama's devoted messenger",
+   "text": "Son of the wind god. He leaps the ocean, finds Sita, and is loved across India and Southeast Asia as the model of devotion and strength.",
+   "rel": [
+    "lord",
+    "king"
+   ]
+  },
+  "sugriva": {
+   "name": "Sugriva",
+   "role": "Vanara king in exile",
+   "text": "Driven out by his brother Vali, he makes a pact with Rama: help to win back his throne, in return for the search for Sita.",
+   "rel": [
+    "brother",
+    "minister",
+    "ally"
+   ]
+  },
+  "vali": {
+   "name": "Vali",
+   "role": "Vanara king of Kishkindha",
+   "text": "Sugriva's mighty elder brother. Rama's arrow ends his reign, a death the epic itself debates.",
+   "rel": [
+    "brother",
+    "son"
+   ]
+  },
+  "angada": {
+   "name": "Angada",
+   "role": "Vali's son, Rama's envoy",
+   "text": "He carries Rama's last offer of peace into Ravana's court.",
+   "rel": [
+    "father"
+   ]
+  },
+  "jatayu": {
+   "name": "Jatayu",
+   "role": "Old king of vultures",
+   "text": "Dasharatha's old friend, who fights Ravana in the sky to save Sita and dies telling Rama which way she was taken.",
+   "rel": [
+    "friend"
+   ]
+  },
+  "shabari": {
+   "name": "Shabari",
+   "role": "Forest devotee",
+   "text": "An old woman of the forest who waits years to welcome Rama. Her humble devotion is one of the epic's most loved moments.",
+   "rel": [
+    "guest"
+   ]
+  },
+  "guha": {
+   "name": "Guha",
+   "role": "Chief of the boatmen",
+   "text": "Rama's friend who ferries the exiles across the Ganga.",
+   "rel": [
+    "friend"
+   ]
+  },
+  "ravana": {
+   "name": "Ravana",
+   "role": "Ten-headed king of Lanka",
+   "text": "Learned, powerful and proud. He abducts Sita and will not return her. Effigies of him burn every year at Dussehra.",
+   "rel": [
+    "brother",
+    "brother",
+    "sister",
+    "son"
+   ]
+  },
+  "vibhishana": {
+   "name": "Vibhishana",
+   "role": "Ravana's brother who sides with Rama",
+   "text": "He urges Ravana to return Sita, is thrown out, and seeks refuge with Rama, who accepts him at once.",
+   "rel": [
+    "brother"
+   ]
+  },
+  "kumbhakarna": {
+   "name": "Kumbhakarna",
+   "role": "Ravana's giant brother",
+   "text": "A giant who sleeps for months at a time. Woken for the war, he tells Ravana he is wrong, then fights for him anyway.",
+   "rel": [
+    "brother"
+   ]
+  },
+  "indrajit": {
+   "name": "Indrajit",
+   "role": "Ravana's son, master of illusion",
+   "text": "Named for once defeating Indra. He fights unseen from the clouds until Lakshmana kills him.",
+   "rel": [
+    "father"
+   ]
+  },
+  "shurpanakha": {
+   "name": "Shurpanakha",
+   "role": "Ravana's sister",
+   "text": "Rejected and wounded in the forest, she goes to her brothers for revenge, and the war begins from there.",
+   "rel": [
+    "brother"
+   ]
+  },
+  "maricha": {
+   "name": "Maricha",
+   "role": "Rakshasa who becomes the golden deer",
+   "text": "Spared by Rama's arrow as a youth, he is later forced by Ravana to lure Rama away as a golden deer.",
+   "rel": [
+    "mother",
+    "master"
+   ]
+  },
+  "tataka": {
+   "name": "Tataka",
+   "role": "Cursed yakshi of the forest",
+   "text": "Once a yakshi, cursed into a destroyer of the land. Rama's first battle is against her.",
+   "rel": [
+    "son"
+   ]
+  },
+  "ahalya": {
+   "name": "Ahalya",
+   "role": "Gautama's wife, freed from a curse",
+   "text": "Cursed after Indra deceived her, she waits in penance until Rama's arrival restores her.",
+   "rel": [
+    "deceiver"
+   ]
+  },
+  "parashurama": {
+   "name": "Parashurama",
+   "role": "Warrior-sage with the axe",
+   "text": "A fierce earlier avatar of Vishnu who challenges Rama after the bow breaks, and yields.",
+   "rel": [
+    "challenger"
+   ]
+  },
+  "bhagiratha": {
+   "name": "Bhagiratha",
+   "role": "King who brought the Ganga to earth",
+   "text": "Rama's ancestor, whose long penance brings the river down. Hindi still calls a huge effort 'Bhagirath prayas'.",
+   "rel": [
+    "river he brought"
+   ]
+  },
+  "rishyashringa": {
+   "name": "Rishyashringa",
+   "role": "Forest sage who brings rain",
+   "text": "Raised alone in the forest, he brings rain to a dry land and later leads the rite that gives Dasharatha sons.",
+   "rel": [
+    "patron"
+   ]
+  },
+  "lava": {
+   "name": "Lava",
+   "role": "Twin son of Rama and Sita",
+   "text": "Raised in Valmiki's ashram, he and Kusha sing the Ramayana before their own father.",
+   "rel": [
+    "twin",
+    "mother"
+   ]
+  },
+  "kusha": {
+   "name": "Kusha",
+   "role": "Twin son of Rama and Sita",
+   "text": "Lava's twin and fellow singer of the epic.",
+   "rel": [
+    "twin",
+    "father"
+   ]
+  }
+ },
+ "notes": {
+  "ramayana/q-man": {
+   "meaning": "Valmiki the ascetic questioned Narada, devoted to austerity and study, finest of speakers and foremost of sages.",
+   "why": "These are the first words of the Ramayana, composed around 2,500 years ago. The epic opens not with a battle but with a question: what does a good life look like?"
+  },
+  "ramayana/virtues": {
+   "meaning": "Who in this world today is virtuous, and who is valiant? Who knows dharma, remembers kindness, speaks truth, and keeps his vows?",
+   "why": "Valmiki's list became a shared idea of character across South and Southeast Asia: courage joined with honesty, gratitude and self-control."
+  },
+  "ramayana/shloka": {
+   "meaning": "Hunter, may you find no rest for endless years, for you killed one of a pair of cranes lost in love.",
+   "why": "Tradition calls this the first verse of poetry in Sanskrit. Grief (shoka) became verse (shloka): the epic is born from compassion for a bird."
+  },
+  "ramayana/rama-accepts": {
+   "why": "Rama accepts fourteen years of exile without anger so that his father's word is kept. For many readers this is the heart of the epic: keeping your word when it costs you everything."
+  },
+  "ramayana/sita-will-go": {
+   "why": "No one orders Sita to the forest. She argues for her place beside Rama and wins. Her choice is hers."
+  },
+  "ramayana/the-leaving": {
+   "meaning": "Sumitra to Lakshmana: Think of Rama as your father Dasharatha, of Sita as me, and of the forest as Ayodhya. Go, my son, and be at peace.",
+   "why": "A mother's blessing that turns exile into home. The verse is still quoted at Indian farewells."
+  },
+  "ramayana/the-sandals": {
+   "why": "Bharata could keep the throne. Instead he places Rama's sandals on it and rules as a caretaker. Power held in trust, not taken."
+  },
+  "ramayana/jatayu-falls": {
+   "why": "An old bird fights a king he cannot beat, because it is right. Rama later performs his funeral rites as he would for his own father."
+  },
+  "ramayana/shabari-berries": {
+   "why": "An elderly forest woman, outside every court and caste of power, is the one Rama honours as a host. Devotion matters more than status."
+  },
+  "ramayana/hanuman-meets": {
+   "why": "Hanuman is worshipped across India and loved in Thailand, Cambodia and Indonesia. He stands for strength used in service, never for show."
+  },
+  "ramayana/the-leap": {
+   "why": "The leap to Lanka is the centre of the Sundara Kanda, a book many families recite whole for courage. In Bali, the Kecak dance retells these scenes by firelight."
+  },
+  "ramayana/vibhishana-comes": {
+   "meaning": "To anyone who comes to me even once and says 'I am yours', I give safety from every being. This is my vow.",
+   "why": "Rama's advisers fear a spy. Rama welcomes the enemy's brother anyway. Refuge is given, not earned."
+  },
+  "ramayana/the-setu": {
+   "why": "Everyone builds the bridge together, down to a small squirrel in later retellings. A chain of shoals between India and Sri Lanka is still called Rama Setu."
+  },
+  "ramayana/ravana-falls": {
+   "why": "Dussehra marks this victory. Across India, giant effigies of Ravana are burned: the defeat of pride, not of a people."
+  },
+  "ramayana/the-ordeal": {
+   "context": "Sita's trial by fire is one of the most debated scenes in the epic. Many retellings, from medieval poets to modern writers, question or reimagine it. The story shows the fire refusing to burn her."
+  },
+  "ramayana/the-coronation": {
+   "why": "Rama's return to Ayodhya is remembered at Diwali, when homes are lit with lamps to welcome him. 'Ram Rajya' still means a just and peaceful rule."
+  },
+  "ramayana/sita-sent": {
+   "context": "Sita's exile belongs to the Uttara Kanda, which many scholars consider a later addition. It is a painful episode, and readers and retellers have long argued with it."
+  },
+  "ramayana/the-earth": {
+   "why": "Sita returns to the earth she came from. She is not tested again. The epic lets her final choice be her own."
+  }
+ },
+ "quiz": {
+  "ramayana/Bala Kanda": [
+   {
+    "q": "Who composed the Ramayana?",
+    "a": [
+     "Valmiki",
+     "Vyasa",
+     "Narada",
+     "Tulsidas"
+    ]
+   },
+   {
+    "q": "What moved Valmiki to speak the first shloka?",
+    "a": [
+     "A hunter killing a crane",
+     "A dream",
+     "A king's order",
+     "A flood"
+    ]
+   },
+   {
+    "q": "Who were Rama's three brothers?",
+    "a": [
+     "Lakshmana, Bharata, Shatrughna",
+     "Lava, Kusha, Angada",
+     "Sugriva, Vali, Hanuman"
+    ]
+   },
+   {
+    "q": "Which sage took the young princes to guard his sacrifice?",
+    "a": [
+     "Vishwamitra",
+     "Vashishtha",
+     "Narada",
+     "Valmiki"
+    ]
+   },
+   {
+    "q": "How did Rama win Sita's hand?",
+    "a": [
+     "He broke Shiva's great bow",
+     "He won a chariot race",
+     "He answered riddles",
+     "He defeated Ravana"
+    ]
+   }
+  ],
+  "ramayana/Ayodhya Kanda": [
+   {
+    "q": "Who asked King Dasharatha to send Rama away?",
+    "a": [
+     "Kaikeyi",
+     "Kausalya",
+     "Sumitra",
+     "Urmila"
+    ]
+   },
+   {
+    "q": "How many years did Rama spend in exile?",
+    "a": [
+     "Fourteen",
+     "Seven",
+     "Twelve",
+     "Ten"
+    ]
+   },
+   {
+    "q": "Who went into the forest with Rama?",
+    "a": [
+     "Sita and Lakshmana",
+     "Bharata and Shatrughna",
+     "Hanuman",
+     "Vashishtha"
+    ]
+   },
+   {
+    "q": "What did Bharata place on the throne of Ayodhya?",
+    "a": [
+     "Rama's sandals",
+     "Rama's bow",
+     "A crown",
+     "A lamp"
+    ]
+   },
+   {
+    "q": "Which forest chief helped them cross the Ganga?",
+    "a": [
+     "Guha",
+     "Jatayu",
+     "Sugriva",
+     "Angada"
+    ]
+   }
+  ],
+  "ramayana/Aranya Kanda": [
+   {
+    "q": "Who took the form of a golden deer?",
+    "a": [
+     "Maricha",
+     "Ravana",
+     "Kumbhakarna",
+     "Vali"
+    ]
+   },
+   {
+    "q": "Which old bird fought Ravana to save Sita?",
+    "a": [
+     "Jatayu",
+     "Garuda",
+     "A crane",
+     "A peacock"
+    ]
+   },
+   {
+    "q": "Who welcomed Rama with berries she had gathered?",
+    "a": [
+     "Shabari",
+     "Ahalya",
+     "Shurpanakha",
+     "Urmila"
+    ]
+   },
+   {
+    "q": "Where did Ravana carry Sita away to?",
+    "a": [
+     "Lanka",
+     "Kishkindha",
+     "Mithila",
+     "Ayodhya"
+    ]
+   },
+   {
+    "q": "Which rakshasi did Lakshmana wound, enraging Ravana?",
+    "a": [
+     "Shurpanakha",
+     "Tataka",
+     "Manthara",
+     "Kaikeyi"
+    ]
+   }
+  ],
+  "ramayana/Kishkindha Kanda": [
+   {
+    "q": "Who became Rama's most devoted friend in Kishkindha?",
+    "a": [
+     "Hanuman",
+     "Vali",
+     "Ravana",
+     "Guha"
+    ]
+   },
+   {
+    "q": "Who was Sugriva's brother?",
+    "a": [
+     "Vali",
+     "Angada",
+     "Jatayu",
+     "Vibhishana"
+    ]
+   },
+   {
+    "q": "What clue had Sita dropped for the vanaras to find?",
+    "a": [
+     "Her jewellery, wrapped in cloth",
+     "A letter",
+     "Her sandal",
+     "A flower garland"
+    ]
+   },
+   {
+    "q": "Who was Vali's son?",
+    "a": [
+     "Angada",
+     "Indrajit",
+     "Lava",
+     "Sugriva"
+    ]
+   },
+   {
+    "q": "Who reminded Hanuman of his forgotten strength?",
+    "a": [
+     "Jambavan",
+     "Sugriva",
+     "Rama",
+     "Vibhishana"
+    ]
+   }
+  ],
+  "ramayana/Sundara Kanda": [
+   {
+    "q": "How did Hanuman reach Lanka?",
+    "a": [
+     "He leapt across the ocean",
+     "By boat",
+     "Over a bridge",
+     "On Garuda's back"
+    ]
+   },
+   {
+    "q": "Where did Hanuman find Sita?",
+    "a": [
+     "In the Ashoka grove",
+     "In Ravana's throne room",
+     "In a cave",
+     "In a temple"
+    ]
+   },
+   {
+    "q": "What did Hanuman show Sita to prove Rama sent him?",
+    "a": [
+     "Rama's ring",
+     "Rama's bow",
+     "A letter",
+     "A sandal"
+    ]
+   },
+   {
+    "q": "What did Ravana's guards set on fire?",
+    "a": [
+     "Hanuman's tail",
+     "The bridge",
+     "Rama's ships",
+     "The forest"
+    ]
+   },
+   {
+    "q": "What did Sita send back to Rama with Hanuman?",
+    "a": [
+     "Her hair jewel",
+     "Her ring",
+     "A garland",
+     "A letter"
+    ]
+   }
+  ],
+  "ramayana/Yuddha Kanda": [
+   {
+    "q": "Which brother of Ravana crossed over to Rama's side?",
+    "a": [
+     "Vibhishana",
+     "Kumbhakarna",
+     "Indrajit",
+     "Maricha"
+    ]
+   },
+   {
+    "q": "Which vanara led the building of the bridge to Lanka?",
+    "a": [
+     "Nala",
+     "Hanuman",
+     "Angada",
+     "Sugriva"
+    ]
+   },
+   {
+    "q": "Which of Ravana's brothers slept for months at a time?",
+    "a": [
+     "Kumbhakarna",
+     "Vibhishana",
+     "Indrajit",
+     "Maricha"
+    ]
+   },
+   {
+    "q": "Which festival celebrates Rama's victory over Ravana?",
+    "a": [
+     "Dussehra",
+     "Holi",
+     "Pongal",
+     "Onam"
+    ]
+   },
+   {
+    "q": "Which festival of lamps remembers Rama's return home?",
+    "a": [
+     "Diwali",
+     "Navratri",
+     "Holi",
+     "Baisakhi"
+    ]
+   }
+  ],
+  "ramayana/Uttara Kanda": [
+   {
+    "q": "What were the names of Sita's twin sons?",
+    "a": [
+     "Lava and Kusha",
+     "Nala and Nila",
+     "Bharata and Shatrughna",
+     "Vali and Sugriva"
+    ]
+   },
+   {
+    "q": "Where did the twins grow up?",
+    "a": [
+     "In Valmiki's ashram",
+     "In Ayodhya's palace",
+     "In Lanka",
+     "In Kishkindha"
+    ]
+   },
+   {
+    "q": "Who taught the twins to sing the Ramayana?",
+    "a": [
+     "Valmiki",
+     "Vashishtha",
+     "Narada",
+     "Hanuman"
+    ]
+   },
+   {
+    "q": "Where did Sita go at the very end?",
+    "a": [
+     "Back into the earth",
+     "Home to Mithila",
+     "To Lanka",
+     "To the forest alone"
+    ]
+   },
+   {
+    "q": "By which river does the story close?",
+    "a": [
+     "Sarayu",
+     "Ganga",
+     "Godavari",
+     "Yamuna"
+    ]
+   }
+  ]
+ }
+}

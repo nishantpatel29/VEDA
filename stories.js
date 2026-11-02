@@ -1,0 +1,1 @@
+var STORIES = PAGES_A.concat(PAGES_B, PAGES_C);

@@ -1,0 +1,24 @@
+{
+  "id": "mahabharata",
+  "ready": true,
+  "titles": {
+    "en": "Mahabharata",
+    "hi": "महाभारत"
+  },
+  "mark": {
+    "en": "महाभारत",
+    "hi": "महाभारत"
+  },
+  "copy": {
+    "en": {
+      "note": "A hundred pages, in story order, from the snake sacrifice to the last refusal. The long counsel after the war is not retold page for page. On the chariot, the Gita is the turn, not the whole recitation.",
+      "doneTitle": "The Mahabharata is complete",
+      "doneBody": "The story stops where Yudhishthira refuses a heaven without his own people. It does not return to the start."
+    },
+    "hi": {
+      "note": "सौ पृष्ठ, कथा के क्रम में, सर्पसत्र से अंतिम इनकार तक। युद्ध के बाद का लंबा उपदेश यहाँ पृष्ठ-दर-पृष्ठ नहीं है। रथ पर गीता एक मोड़ है, पूरा पाठ नहीं।",
+      "doneTitle": "महाभारत पूरा हुआ",
+      "doneBody": "कथा वहीं रुकती है जहाँ युधिष्ठिर अपने लोगों के बिना स्वर्ग नहीं लेते। पाठ आरंभ पर वापस नहीं लौटता।"
+    }
+  }
+}

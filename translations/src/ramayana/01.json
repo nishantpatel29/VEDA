@@ -1,0 +1,441 @@
+{
+ "work": "ramayana",
+ "chunk": 1,
+ "pages": {
+  "q-man": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Who Is the Man",
+    "Valmiki asked a question too large for an ordinary afternoon.",
+    "The sage wanted one name: a man complete in courage, conduct, and truth, pleasing to look at and harder to shake. Narada, who walks between heaven and earth, had come to the hermitage as if the question had called him.",
+    "Valmiki did not want a god described from a distance. He wanted a life that could be told, with a kingdom, a wife, a war, and a cost."
+   ],
+   "hi": [
+    "ऐसा पुरुष कौन",
+    "वाल्मीकि ने वह प्रश्न पूछा जो किसी साधारण दिन का नहीं था।",
+    "उन्हें एक नाम चाहिए था। ऐसा मनुष्य जिसमें शौर्य हो, धर्म हो, सत्य हो, जो देखने में सुंदर हो और विचलित न हो। नारद, जो लोक और लोक से परे चलते हैं, आश्रम में ऐसे पहुँचे मानो प्रश्न ही उन्हें बुला लाया हो।",
+    "वाल्मीकि किसी दूर के देवता का गुणगान नहीं सुनना चाहते थे। वे एक पूरा जीवन सुनना चाहते थे। राज्य हो, पत्नी हो, युद्ध हो, और उसकी कीमत भी।"
+   ]
+  },
+  "narada": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Narada Sits",
+    "The visitor set down his vina and answered without hedging.",
+    "There is such a man, Narada said. His name is Rama. He is the son of Dasharatha of Ayodhya, and the virtues you listed are not scattered in him. They sit in one body.",
+    "He is gentle with the weak and finished with the cruel. People trust him before they can explain why. That, Narada said, is the man."
+   ],
+   "hi": [
+    "नारद का उत्तर",
+    "अतिथि ने वीणा रखी और सीधा उत्तर दिया।",
+    "ऐसा पुरुष है, नारद बोले। नाम है राम। अयोध्या के राजा दशरथ के पुत्र। जो गुण तुम खोज रहे हो, वे उसमें इधर-उधर बिखरे नहीं पड़े। सब एक ही मनुष्य में हैं।",
+    "दुर्बल के साथ कोमल, क्रूर के साथ कठोर। लोग पहले उस पर भरोसा कर लेते हैं, कारण बाद में समझाते हैं। नारद ने कहा, वही राम है।"
+   ]
+  },
+  "virtues": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The List",
+    "Narada did not praise in a cloud. He counted.",
+    "Rama knows the Vedas and the bow. He keeps his word when the word turns expensive. He does not take another man's wife, and he does not abandon one who comes to him.",
+    "Anger in him has a gate. Mercy in him has a spine. Narada spoke as a man who had already seen the end of the story and still found the beginning worth telling."
+   ],
+   "hi": [
+    "गुण एक-एक कर",
+    "नारद ने ढीली स्तुति नहीं की। उन्होंने गिनकर बताया।",
+    "राम वेद जानते हैं और धनुष भी। वचन जब भारी पड़ जाए, तब भी नहीं टालते। परस्त्री की ओर आँख नहीं उठाते, और जो शरण में आए उसे नहीं छोड़ते।",
+    "उनका क्रोध बिना लगाम का नहीं। उनकी दया बिना बल की नहीं। नारद ऐसे बोले जैसे कथा का अंत देख चुके हों, और फिर भी उसका आरंभ कहना शेष हो।"
+   ]
+  },
+  "brief": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Story in Brief",
+    "Then Narada told the whole epic in one sitting, and left.",
+    "Exile. A deer of gold. A wife taken through the sky. An alliance with the vanaras. A bridge. A war. A return. He gave Valmiki the bones of the poem so the poet would know he was not inventing a rumor.",
+    "When Narada rose, the hermitage felt larger and less peaceful. A question had been answered. A labor had begun."
+   ],
+   "hi": [
+    "सारी कथा, संक्षेप में",
+    "फिर नारद ने एक ही बैठक में पूरा रामायण कह दिया, और चल दिए।",
+    "वनवास। स्वर्णमृग। सीता का हरण। वानरों से मित्रता। समुद्र पर पुल। युद्ध। और लौटना। उन्होंने वाल्मीकि को कथा की पूरी रूपरेखा दे दी, ताकि कवि जाने कि यह उड़ी हुई बात नहीं, राम का जीवन है।",
+    "नारद के जाते ही आश्रम सूना और गंभीर लगने लगा। प्रश्न का उत्तर मिल चुका था। अब काव्य लिखना बाकी था।"
+   ]
+  },
+  "tamasa": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Tamasa",
+    "Valmiki went to the river with a disciple, meaning only to bathe.",
+    "The water was clear enough to show the stones. The poet was pleased, in the small way a person is pleased by a clean place. He had not come looking for a meter.",
+    "The bank was ordinary. That is what the epic trusts you to notice later: the first verse did not arrive in a court."
+   ],
+   "hi": [
+    "तमसा",
+    "वाल्मीकि शिष्य के साथ नदी पर गए। उद्देश्य केवल स्नान था।",
+    "जल इतना निर्मल था कि नीचे के पत्थर दिख रहे थे। कवि को वही हल्की प्रसन्नता हुई जो स्वच्छ जगह देखकर होती है। वे कोई छंद खोजने नहीं निकले थे।",
+    "तट साधारण था। यही बाद में समझ आता है। रामायण का पहला श्लोक राजसभा में नहीं जन्मा।"
+   ]
+  },
+  "pair": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Pair",
+    "Two krauncha birds were playing in the shallows, a life with no audience.",
+    "They moved as one habit. The poet watched them the way a person watches something that does not need him. For a moment the Ramayana was not in his head at all.",
+    "Joy, in this book, is often shown just before it is struck."
+   ],
+   "hi": [
+    "क्रौंच जोड़ा",
+    "दो क्रौंच पक्षी छिछले जल में खेल रहे थे। उन्हें किसी दर्शक की ज़रूरत नहीं थी।",
+    "दोनों एक साथ उठते-बैठते थे। कवि उन्हें ऐसे देख रहे थे जैसे कोई ऐसी चीज़ देखे जो उससे माँग नहीं करती। उस क्षण उनके मन में रामायण था ही नहीं।",
+    "इस काव्य में सुख अक्सर चोट से ठीक पहले आता है।"
+   ]
+  },
+  "hunter": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Hunter",
+    "A nishada shot the male. The female cried, and did not stop.",
+    "The arrow was skillful. That was the obscenity of it. Valmiki saw the bird fall and heard a grief that had no manners and no plan.",
+    "The poet, who had asked about perfect conduct, was suddenly angry at a perfect shot."
+   ],
+   "hi": [
+    "निषाद का बाण",
+    "एक निषाद ने नर क्रौंच को मार गिराया। मादा रोती रही, और रुकी नहीं।",
+    "निशाना सटीक था। इसी में उसकी निर्दयता थी। वाल्मीकि ने पक्षी को गिरते देखा, और ऐसा विलाप सुना जिसमें न शिष्टता थी, न कोई सोच।",
+    "जिस कवि ने अभी पूछा था कि धर्म किसमें पूरा होता है, वही एक सटीक बाण पर क्रोध से भर गए।"
+   ]
+  },
+  "shloka": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The First Shloka",
+    "Grief left his mouth already measured.",
+    "Ma nishada. The words came in four even feet, a curse that was also a verse. He had not chosen the form. The form had arrived inside the pain.",
+    "His disciple repeated it, astonished. The meter of the Ramayana was born as a refusal to let a cruel skill stand unnamed."
+   ],
+   "hi": [
+    "पहला श्लोक",
+    "शोक मुँह से निकला, और निकलते ही छंद बन गया।",
+    "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः। शब्द अपने आप चार समान चरणों में आ गए। यह शाप भी था और श्लोक भी। वाल्मीकि ने रूप नहीं चुना था। पीड़ा ने ही रूप ले लिया।",
+    "शिष्य ने उसे दोहराया, हैरान होकर। रामायण का छंद इसी इनकार से जन्मा, कि एक निर्दयी निशाना बेनाम न रह जाए।"
+   ]
+  },
+  "brahma": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Brahma Comes",
+    "The creator stood in the hermitage and told him what the verse was for.",
+    "You will write Rama's whole life, Brahma said, what Narada told you and what no one told you. Nothing true will hide from you while you compose.",
+    "The curse on a hunter had been a doorway. The poem would have to walk through fourteen years, a war, and a sorrow even the hero would not be spared."
+   ],
+   "hi": [
+    "ब्रह्मा का आदेश",
+    "ब्रह्मा आश्रम में आए और कहा कि यह श्लोक यूँ ही नहीं निकला।",
+    "तुम राम का पूरा जीवन लिखो, ब्रह्मा बोले। जो नारद ने कहा, और जो किसी ने नहीं कहा। जब तक तुम रचोगे, कोई सत्य तुमसे छिपा नहीं रहेगा।",
+    "व्याध को दिया गया शाप एक द्वार निकला। इस काव्य को चौदह वर्ष का वनवास, एक युद्ध, और वह दुख भी लिखना था जिससे राम भी नहीं बचेंगे।"
+   ]
+  },
+  "composes": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "He Writes",
+    "Valmiki sat down and the knowing came as work, not as magic that skipped the work.",
+    "Day after day the leaf filled. Sita's voice. Lakshmana's watch. The bridge. The fire. He wrote what he had not seen, and it did not feel like invention. It felt like memory that had been waiting for a hand.",
+    "A poem this long is a kind of vow. He kept it."
+   ],
+   "hi": [
+    "वाल्मीकि लिखते हैं",
+    "वाल्मीकि बैठे। ज्ञान किसी जादू की तरह नहीं आया जो श्रम बचा ले। वह काम की तरह आया।",
+    "दिन पर दिन तालपत्र भरता गया। सीता की वाणी। लक्ष्मण की जागरण। सेतु। अग्निपरीक्षा। उन्होंने वह लिखा जो आँखों से नहीं देखा था, और वह गढ़ी हुई बात नहीं लगी। ऐसी स्मृति लगी जो लिखे जाने की राह देख रही हो।",
+    "इतना बड़ा काव्य एक व्रत है। वाल्मीकि ने उसे पूरा किया।"
+   ]
+  },
+  "students": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Two Students",
+    "He did not keep the poem in a chest. He put it in two boys.",
+    "Lava and Kusha learned every chapter until the epic could stand up without the poet in the room. Their voices were young. The sorrow they carried was not.",
+    "Valmiki taught them to sing it whole, including the pages that would hurt the man who heard them."
+   ],
+   "hi": [
+    "दो शिष्य",
+    "वाल्मीकि ने काव्य को संदूक में बंद नहीं रखा। उसे दो बालकों को सौंप दिया।",
+    "लव और कुश ने हर कांड तब तक याद किया जब तक कथा कवि के बिना भी खड़ी हो सके। उनकी आवाज़ छोटी थी। कथा का दुख छोटा नहीं था।",
+    "वाल्मीकि ने उन्हें पूरी कथा गाना सिखाया। वे पृष्ठ भी, जो सुनकर राम को कष्ट होगा।"
+   ]
+  },
+  "rehearse": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "They Know It Whole",
+    "A song is not learned when it is pretty. It is learned when it can be repeated on a tired day.",
+    "The twins walked the hermitage singing exile, the deer, the sea, the war. Birds got used to the sound. The poem became a path their feet knew.",
+    "Valmiki listened for the places they softened, and sent them back. Mercy in the telling still had to be exact."
+   ],
+   "hi": [
+    "पूरी कथा कंठस्थ",
+    "गीत तब नहीं सीखा जाता जब वह सुंदर लगे। तब सीखा जाता है जब थके हुए दिन भी बिना चूके गाया जा सके।",
+    "दोनों बालक आश्रम में घूम-घूम कर गाते। वनवास, मृग, समुद्र, युद्ध। पक्षी उस स्वर के अभ्यस्त हो गए। कथा उनके पैरों का रास्ता बन गई।",
+    "वाल्मीकि सुनते कि वे कहाँ बात को हल्का कर देते हैं, और वहीं से फिर गवाते। दया भी ठीक-ठीक होनी चाहिए।"
+   ]
+  },
+  "court-song": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "In Rama's Hearing",
+    "They sang it in Ayodhya, in the court of the king the poem was about.",
+    "Rama did not know their names as his sons. He knew the story as his life. The hall went still in the way a hall does when it realizes the song is not entertainment.",
+    "The boys did not flinch at the hard pages. They had been taught that accuracy is a form of respect."
+   ],
+   "hi": [
+    "राम के सामने",
+    "उन्होंने यह कथा अयोध्या में गाई, उसी राजा की सभा में जिसके जीवन की यह कथा है।",
+    "राम नहीं जानते थे कि गाने वाले उनके पुत्र हैं। कथा को वे अपना जीवन जानते थे। सभा ऐसी शांत हुई जैसे सबको एक साथ समझ आ गया हो कि यह गाना मनोरंजन नहीं है।",
+    "कठिन प्रसंगों पर बालक नहीं हिचकिचाए। उन्हें सिखाया गया था कि सच कहना भी आदर है।"
+   ]
+  },
+  "recognizes": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "He Knows the Song",
+    "Rama heard his own grief given back to him in a child's mouth.",
+    "The frame of the epic closes on its subject. The king who will live these chapters is already, in the poem's first book, listening to them.",
+    "Valmiki's question had found its man. The man now had to sit still and be told."
+   ],
+   "hi": [
+    "राम पहचान जाते हैं",
+    "राम ने अपना ही दुख एक बच्चे की आवाज़ में लौटता सुना।",
+    "काव्य घूमकर उसी के पास आ गया जिसके जीवन पर वह लिखा गया है। जो राजा ये दिन आगे जीएगा, वह बालकांड में ही उन्हें सुन रहा है।",
+    "वाल्मीकि का प्रश्न राम तक पहुँच गया था। अब राम को चुप होकर अपनी ही कथा सुननी थी।"
+   ]
+  },
+  "city": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Ayodhya",
+    "Before the sons, the poem builds the city that will miss them.",
+    "Wide roads, full granaries, towers like a range of white hills. The people were not decorations. They were the reason a king's private vow could become a public wound.",
+    "Valmiki lingers here. A paradise in a poem is only useful if you later understand what it costs to leave it."
+   ],
+   "hi": [
+    "अयोध्या",
+    "पुत्रों से पहले कवि अयोध्या को खड़ा करते हैं। वही नगर, जो आगे उन्हें खोकर रोएगा।",
+    "चौड़ी सड़कें, भरे कोष्ठ, श्वेत पहाड़ियों जैसी अट्टालिकाएँ। प्रजा सजावट नहीं थी। उसी के कारण राजा की निजी प्रतिज्ञा आगे पूरे नगर का घाव बनेगी।",
+    "वाल्मीकि यहाँ ठहरते हैं। काव्य का यह सुखी नगर तभी सार्थक है जब बाद में पता चले कि उसे छोड़ना कितना भारी था।"
+   ]
+  },
+  "gates": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Gates",
+    "Traders, horses, and priests moved through the same morning.",
+    "No one in the street was rehearsing a tragedy. That is the city's innocence, and the poem does not mock it. Happiness can be intelligent and still not see the day it ends.",
+    "Ayodhya's strength was order. Order is what Dasharatha trusted more than his own heart."
+   ],
+   "hi": [
+    "नगर के द्वार",
+    "व्यापारी, घोड़े और पुरोहित एक ही प्रातः उस द्वार से आ-जा रहे थे।",
+    "सड़क पर किसी को आने वाली विपदा का भान नहीं था। यही नगर की निश्चिंतता है, और कवि उसका मजाक नहीं उड़ाते। सुख समझदार हो सकता है, और फिर भी अपना अंतिम दिन नहीं देख पाता।",
+    "अयोध्या की शक्ति उसकी व्यवस्था थी। दशरथ ने अपने मन से अधिक उसी व्यवस्था पर भरोसा किया।"
+   ]
+  },
+  "dasharatha": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Dasharatha",
+    "He had fought well and ruled long, and the one room in him was empty.",
+    "Three queens: Kausalya, Kaikeyi, Sumitra. A court that worked. A line that stopped at his own life. Age had begun to feel like a question he could not hand to a minister.",
+    "A king without a son is not only a father without a child. He is a city without a next morning."
+   ],
+   "hi": [
+    "दशरथ",
+    "उन्होंने अच्छे युद्ध किए थे और लंबा राज्य किया था। एक ही स्थान खाली था।",
+    "तीन रानियाँ थीं। कौशल्या, कैकेयी, सुमित्रा। राजकाज चल रहा था। वंश उनके जीवन पर ही रुक जाता। बुढ़ापा अब ऐसा प्रश्न लगने लगा जिसे किसी मंत्री के भरोसे नहीं छोड़ा जा सकता।",
+    "पुत्रहीन राजा केवल निःसंतान पिता नहीं होता। उसके नगर की अगली सुबह अनिश्चित हो जाती है।"
+   ]
+  },
+  "ministers": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Council",
+    "Sumantra spoke for the house. Vashishtha kept the rites from becoming theater.",
+    "Eight ministers held the practical kingdom: roads, grain, justice, the dull holiness of things that must be counted. Dasharatha listened. He was not a fool king. He was a complete king with one missing piece.",
+    "The poem will need you to remember that. The disaster later is not born from incompetence."
+   ],
+   "hi": [
+    "मंत्रीपरिषद",
+    "सुमंत राजघराने की बात रखते थे। वशिष्ठ यज्ञ को दिखावा बनने नहीं देते थे।",
+    "आठ मंत्री राज्य का काम सँभालते थे। मार्ग, अन्न, न्याय, और वे सब गिनतियाँ जिनके बिना राजधानी नहीं चलती। दशरथ सुनते थे। वे अयोग्य राजा नहीं थे। एक ही कमी थी।",
+    "यह याद रखना ज़रूरी है। आगे जो विपत्ति आएगी, वह राजा की अयोग्यता से नहीं आएगी।"
+   ]
+  },
+  "no-heir": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Empty Side",
+    "He said it aloud at last, because silence had become heavier than speech.",
+    "I have no son to take this throne. The words were simple. The hall treated them as a structural fact, like a crack in a wall everyone had agreed not to touch.",
+    "Kausalya heard them as a wife. The city heard them as a future."
+   ],
+   "hi": [
+    "सिंहासन खाली",
+    "अंत में दशरथ ने कह ही दिया। चुप रहना बोलने से भारी हो गया था।",
+    "इस सिंहासन को सँभालने वाला मेरा कोई पुत्र नहीं। बात सीधी थी। सभा ने उसे वैसे सुना जैसे दीवार की उस दरार को, जिसे सब जानते थे और कोई छूता नहीं था।",
+    "कौशल्या ने इसे पत्नी होकर सुना। नगर ने इसे अपने आने वाले कल की तरह सुना।"
+   ]
+  },
+  "decide": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "A King's Remedy",
+    "The priests named the old cure: a horse sacrifice, the ashvamedha, and the rite that asks for a son.",
+    "Dasharatha agreed the way a drowning man agrees to a rope. It would cost a year, a fortune, and the attention of every holy man he could gather.",
+    "He did not yet know that the rope had a name, and that the name lived in a forest, wearing a horn."
+   ],
+   "hi": [
+    "राजा का उपचार",
+    "पुरोहितों ने पुराना उपाय बताया: अश्वमेध, और वह यज्ञ जो पुत्र माँगता है।",
+    "दशरथ ने वैसे हाँ की जैसे डूबता व्यक्ति रस्सी को हाँ कहे। इसमें एक वर्ष लगेगा, अपार धन, और जितने सिद्ध पुरुष वह बुला सके।",
+    "उन्हें अभी नहीं पता था कि रस्सी का एक नाम है, और वह नाम सींग पहनकर वन में रहता है।"
+   ]
+  },
+  "sumantra": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Sumantra Remembers",
+    "The minister had been carrying an old prophecy the way a careful man carries a sealed letter.",
+    "Sanatkumara had said Dasharatha's sons would be born through Rishyashringa, the deer-horned sage, and through the rite that sage would perform. Sumantra spoke it now, because the moment had opened.",
+    "A kingdom's future, it turned out, depended on a boy who had never seen a city."
+   ],
+   "hi": [
+    "सुमन्त्र को स्मरण",
+    "मंत्री एक पुरानी भविष्यवाणी ऐसे ढो रहे थे जैसे सावधान व्यक्ति मुहरबंद पत्र ढोए।",
+    "सनत्कुमार ने कहा था कि दशरथ के पुत्र ऋष्यशृंग से जन्म लेंगे, उस मृगशृंगी मुनि से, और उसी के किए यज्ञ से। सुमन्त्र ने अब कहा, क्योंकि क्षण खुल गया था।",
+    "एक राज्य का भविष्य उस बालक पर टिका था जिसने नगर कभी नहीं देखा था।"
+   ]
+  },
+  "anga-dry": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Anga Without Rain",
+    "Before Ayodhya's rite, the poem tells why Rishyashringa already belonged to a king.",
+    "Romapada ruled Anga, and Anga had gone dry. The clouds passed over as if the land had been struck from their list. Crops failed. The priests traced the drought to a slighted offering, a brahmin unanswered.",
+    "A kingdom can be punished in weather. Romapada learned that in his fields."
+   ],
+   "hi": [
+    "अंग बिना वर्षा",
+    "अयोध्या के यज्ञ से पहले कविता बताती है कि ऋष्यशृंग पहले ही एक राजा के हो चुके थे।",
+    "रोमपद अंग पर राज्य करते थे, और अंग सूख गया था। बादल ऐसे निकल जाते जैसे भूमि उनकी सूची से कट गई हो। फसलें मरीं। पुरोहितों ने सूखा एक अपमानित यज्ञ तक खोजा, एक ब्राह्मण जिसका उत्तर नहीं दिया गया।",
+    "राज्य को मौसम में भी दंड मिल सकता है। रोमपद ने यह अपने खेतों में सीखा।"
+   ]
+  },
+  "romapada": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Romapada's Fear",
+    "He was not a villain. He was a man who had delayed a duty until the sky noticed.",
+    "The court offered politics. The brahmins offered a name. Only Rishyashringa, raised outside the sight of women, could stand in the rite that would persuade the rain.",
+    "Romapada, who had once received Dasharatha's daughter Shanta as his own, now had to fetch a sage who did not know what a court was."
+   ],
+   "hi": [
+    "रोमपद का भय",
+    "वे खल नहीं थे। वे एक ऐसे पुरुष थे जिसने कर्तव्य तब तक टाला जब तक आकाश ने देख लिया।",
+    "सभा ने राजनीति दी। ब्राह्मणों ने एक नाम दिया। केवल ऋष्यशृंग, जो स्त्रियों की दृष्टि से बाहर पले थे, उस यज्ञ में खड़े हो सकते थे जो वर्षा को मना ले।",
+    "रोमपद, जिन्हें दशरथ की पुत्री शांता अपनी बेटी के रूप में मिली थी, अब एक ऐसे मुनि को लाना था जो दरबार को जानता ही नहीं था।"
+   ]
+  },
+  "counsel": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Only Name",
+    "Bring him gently, the counselors said. Force will fail on a boy who has never been commanded by desire.",
+    "They did not mean armies. They meant women who understood welcome, sweets he had no word for, a beauty that would look, to him, like a new kind of forest.",
+    "The plan was a trick. The poem does not pretend otherwise. It also shows the rain that followed."
+   ],
+   "hi": [
+    "एकमात्र नाम",
+    "उसे कोमलता से लाओ, मंत्रियों ने कहा। बल उस बालक पर विफल होगा जिसे इच्छा ने कभी आज्ञा नहीं दी।",
+    "उनका अर्थ सेना नहीं था। उनका अर्थ उन स्त्रियों से था जो स्वागत जानती थीं, मिठाइयाँ जिनका उसके पास शब्द नहीं था, एक सौंदर्य जो उसे नए तरह का वन लगे।",
+    "योजना एक छल थी। कविता इसे छिपाती नहीं। वह उसके बाद आई वर्षा भी दिखाती है।"
+   ]
+  },
+  "vibhandaka": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Vibhandaka",
+    "The father had built a world with one rule: nothing in it would teach his son longing.",
+    "Rishyashringa was born of the sage's austerity, marked with a horn, raised among deer and hymns. Women were not a subject. They were an absence his education depended on.",
+    "Vibhandaka believed purity was a closed gate. The epic is about to test the gate."
+   ],
+   "hi": [
+    "विभण्डक",
+    "पिता ने एक नियम वाली दुनिया बनाई थी: उसमें कुछ भी उसके पुत्र को तृष्णा न सिखाए।",
+    "ऋष्यशृंग मुनि की तपस्या से जन्मे, सींग के चिह्न वाले, मृगों और मंत्रों के बीच पले। स्त्रियाँ विषय नहीं थीं। वे एक अनुपस्थिति थीं जिस पर उनकी शिक्षा टिकी थी।",
+    "विभण्डक मानते थे कि पवित्रता एक बंद द्वार है। महाकाव्य उस द्वार की परीक्षा करने वाला है।"
+   ]
+  },
+  "boy": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Horned Boy",
+    "He was not a monster in the telling. He was a child who had been given only half a world.",
+    "He fetched water. He tended the fire. He could hear a deer before he saw it. When his father left to gather roots, the hut became the whole map.",
+    "Innocence this complete is not stupid. It is unprotected."
+   ],
+   "hi": [
+    "सींग वाला बालक",
+    "कथा में वह राक्षस नहीं है। वह एक बालक है जिसे आधी दुनिया दी गई थी।",
+    "वह जल लाता। अग्नि सँभालता। मृग को देखने से पहले सुन लेता। जब पिता कंदमूल लेने जाते, कुटी ही सारा नक्शा हो जाती।",
+    "इतनी पूरी निर्दोषता मूर्खता नहीं होती। वह असुरक्षित होती है।"
+   ]
+  },
+  "deer-life": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Among Deer",
+    "The animals were his brothers, because no one else had been offered.",
+    "He did not experience this as poverty. The forest fed him, the hymns named the day, and his father's return was the evening. A life can be full and still be one breath away from breaking.",
+    "Far off, a dry kingdom was already walking toward that breath."
+   ],
+   "hi": [
+    "मृगों के बीच",
+    "पशु उसके भाई थे, क्योंकि और कोई दिया ही नहीं गया था।",
+    "वह इसे दरिद्रता नहीं मानता था। वन उसे खिलाता, मंत्र दिन का नाम रखते, और पिता की वापसी संध्या थी। जीवन भरा हो सकता है और फिर भी टूटने से एक साँस दूर।",
+    "दूर, एक सूखा राज्य पहले ही उस साँस की ओर चल रहा था।"
+   ]
+  },
+  "plan": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Sending",
+    "Romapada chose courtesans, not soldiers, which is its own kind of intelligence and its own kind of shame.",
+    "They were told to look like the forest's own kindness. No seizure. No sermon. A visit that would feel, to the boy, like hospitality from heaven.",
+    "Shanta waited in the city, not knowing she was about to marry a man who had never heard of marriage."
+   ],
+   "hi": [
+    "भेजा जाना",
+    "रोमपद ने सैनिक नहीं, गणिकाएँ चुनीं। यह अपनी तरह की बुद्धि थी और अपनी तरह का लज्जा भी।",
+    "उन्हें कहा गया कि वे वन की अपनी दयालुता लगें। न पकड़ना। न उपदेश। एक भेंट जो बालक को स्वर्ग के आतिथ्य जैसी लगे।",
+    "शांता नगर में प्रतीक्षा कर रही थीं। उन्हें नहीं पता था कि उनका विवाह एक ऐसे पुरुष से होगा जिसने विवाह का नाम नहीं सुना।"
+   ]
+  },
+  "garden": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "A False Ashram",
+    "They made a bright place near his hut, flowers and food and laughter kept low.",
+    "It was a stage. It was also, for a few days, the first beautiful thing in his life that his father had not authorized. The poem lets both sentences stand.",
+    "When he came looking for roots, the roots had company."
+   ],
+   "hi": [
+    "बनावट का आश्रम",
+    "उन्होंने उसकी कुटी के पास एक उज्ज्वल स्थान बनाया, फूल, भोजन, और धीमी हँसी।",
+    "वह एक मंच था। वह कुछ दिनों के लिए उसके जीवन की पहली सुंदर वस्तु भी था जिसे उसके पिता ने अनुमति नहीं दी थी। कविता दोनों वाक्य खड़े छोड़ देती है।",
+    "जब वह कंदमूल खोजने आया, कंदमूल के साथ साथी थे।"
+   ]
+  }
+ }
+}

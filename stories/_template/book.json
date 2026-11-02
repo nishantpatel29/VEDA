@@ -1,0 +1,24 @@
+{
+  "id": "story-id",
+  "ready": false,
+  "titles": {
+    "en": "Story title",
+    "hi": "कथा का नाम"
+  },
+  "mark": {
+    "en": "कथा का नाम",
+    "hi": "कथा का नाम"
+  },
+  "copy": {
+    "en": {
+      "note": "One sentence on what this telling is, and where it is short on purpose.",
+      "doneTitle": "The story is complete",
+      "doneBody": "The last page is the end. The shelf does not send the reader back to the start."
+    },
+    "hi": {
+      "note": "यह किस तरह की कथा है, और कहाँ जान-बूझकर छोटी है।",
+      "doneTitle": "कथा पूरी हुई",
+      "doneBody": "अंतिम पृष्ठ ही अंत है। पाठ अपने आप आरंभ पर नहीं लौटता।"
+    }
+  }
+}

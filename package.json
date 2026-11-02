@@ -1,0 +1,31 @@
+{
+  "name": "ramayana",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Ramayana reader, story order, no algorithm.",
+  "scripts": {
+    "stories": "node tools/build-stories.js",
+    "fonts": "node tools/fetch-fonts.js",
+    "icons": "node tools/make-icons.js && npx @capacitor/assets generate --android --iconBackgroundColor \"#1a0d08\" --iconBackgroundColorDark \"#1a0d08\" --splashBackgroundColor \"#090704\" --splashBackgroundColorDark \"#090704\"",
+    "translate": "node tools/translate.js",
+    "www": "node sync-www.js",
+    "sync": "node sync-www.js && npx cap sync android",
+    "apk": "node tools/build-apk.js",
+    "aab": "node tools/build-apk.js --release",
+    "serve": "node sync-www.js && npx --yes http-server www -p 8080 -c-1"
+  },
+  "dependencies": {
+    "@capacitor-community/keep-awake": "^6.0.0",
+    "@capacitor-community/text-to-speech": "^6.1.0",
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/app": "^7.1.2",
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/filesystem": "^7.1.9",
+    "@capacitor/share": "^7.0.4",
+    "@capacitor/status-bar": "^7.0.6"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3",
+    "sharp": "^0.35.5"
+  }
+}

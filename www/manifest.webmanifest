@@ -1,0 +1,13 @@
+{
+  "name": "VEDA",
+  "short_name": "VEDA",
+  "description": "India's great stories, told page by page.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090704",
+  "theme_color": "#090704",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+ "work": "ramayana",
+ "chunk": 5,
+ "pages": {
+  "the-sound": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Sound",
+    "The bow snapped. The crack was heard as thunder, and as permission.",
+    "People fell. Lamps shook. Janaka laughed the laugh of a man whose vow had finally agreed with his love. Vishwamitra did not look surprised. He looked finished with a task he had not announced in Ayodhya.",
+    "The garland, after that, was a small thing. It was also the marriage."
+   ],
+   "hi": [
+    "ध्वनि",
+    "धनुष टूटा। कड़क गर्जन सुनाई दी, और अनुमति की तरह।",
+    "लोग गिरे। दीप हिले। जनक हँसे, उस पुरुष की हँसी जो अपने व्रत को अपने प्रेम से सहमत पाए। विश्वामित्र चकित नहीं लगे। वे एक ऐसे काम से मुक्त लगे जिसकी घोषणा उन्होंने अयोध्या में नहीं की थी।",
+    "उसके बाद वरमाला छोटी वस्तु थी। वह विवाह भी थी।"
+   ]
+  },
+  "message": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Message",
+    "Janaka sent riders south before the hall had finished ringing.",
+    "Come, he told Dasharatha. The bow is broken by your son, and my daughter is no longer a condition. She is a bride, if you will bring the house to meet her. The road filled with haste that felt like joy.",
+    "In Ayodhya an old king heard his boy's name attached to a miracle and did not sit down for a long time."
+   ],
+   "hi": [
+    "संदेश",
+    "जनक ने सभा की गूँज थमने से पहले दक्षिण को सवार भेजे।",
+    "आओ, उन्होंने दशरथ से कहा। धनुष तुम्हारे पुत्र ने तोड़ा, और मेरी पुत्री अब शर्त नहीं रही। वह वधू है, यदि तुम घर लेकर मिलने आओ। मार्ग उस जल्दी से भर गया जो आनंद लगती है।",
+    "अयोध्या में एक बूढ़े राजा ने अपने बालक का नाम एक चमत्कार से जुड़ा सुना और देर तक नहीं बैठे।"
+   ]
+  },
+  "father-comes": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Dasharatha Comes",
+    "He arrived with priests, brothers, and the relieved greed of a father who gets to attend the wedding instead of the funeral he had feared.",
+    "Bharata and Shatrughna were called from Kekaya. A marriage in this family is never allowed to be singular. Vashishtha walked in and the rites acquired their proper spine.",
+    "Rama bowed to his father in a city that had just watched him break a god's bow. The bow was the less difficult obedience."
+   ],
+   "hi": [
+    "दशरथ आते हैं",
+    "वे पुरोहितों, भाइयों, और एक पिता के चैन भरे लोभ के साथ आए, जिसे शवयात्रा के डर के बजाय विवाह में बैठना मिला।",
+    "भरत और शत्रुघ्न केकय से बुलाए गए। इस कुल में विवाह को अकेला नहीं रहने दिया जाता। वशिष्ठ आए और संस्कार को रीढ़ मिली।",
+    "राम ने उस नगर में पिता को प्रणाम किया जिसने उन्हें देवता का धनुष तोड़ते देखा था। धनुष आसान आज्ञापालन था।"
+   ]
+  },
+  "four-names": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Four Names",
+    "Janaka's house did not marry off a daughter. It married a family.",
+    "Rama and Sita. Lakshmana and Urmila, Sita's sister. Bharata and Mandavi, Shatrughna and Shrutakirti, daughters of Janaka's brother Kushadhvaja. Four fires were planned because one would have been a lie about how these brothers lived.",
+    "The courtyard was measured for a joy that had to be wide."
+   ],
+   "hi": [
+    "चार नाम",
+    "जनक के घर ने एक पुत्री नहीं ब्याही। उसने एक कुल ब्याहा।",
+    "राम और सीता। लक्ष्मण और उर्मिला, सीता की बहन। भरत और मांडवी, शत्रुघ्न और श्रुतकीर्ति, जनक के भाई कुशध्वज की पुत्रियाँ। चार अग्नियाँ इसलिए रखी गईं कि एक इन भाइयों के जीने के ढंग का झूठ होती।",
+    "आँगन एक ऐसे आनंद के लिए नापा गया जिसे चौड़ा होना था।"
+   ]
+  },
+  "rama-sita": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Rama and Sita",
+    "They took hands around a fire that had more witnesses than a kingdom usually allows.",
+    "She had come from earth. He had come from a bowl of payasam and a question Narada answered. None of that was spoken over the mantra. The mantra was enough. Their fingers met, and the epic's private life began in public.",
+    "Urmila watched her sister and learned the shape of her own hour, which was next."
+   ],
+   "hi": [
+    "राम और सीता",
+    "उन्होंने हाथ एक ऐसी अग्नि के गिर्द थामे जिसके साक्षी एक राज्य से अधिक थे।",
+    "वह धरती से आई थीं। वे पायस के पात्र और नारद के उत्तर से आए थे। मंत्र के ऊपर यह नहीं कहा गया। मंत्र काफी था। उँगलियाँ मिलीं, और महाकाव्य का निजी जीवन सार्वजनिक रूप से शुरू हुआ।",
+    "उर्मिला ने बहन को देखा और अपनी घड़ी का आकार सीखा, जो अगली थी।"
+   ]
+  },
+  "sisters": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Other Three",
+    "Lakshmana married Urmila, and the poem will owe her a quiet debt it only partly pays.",
+    "Mandavi took Bharata's hand. Shrutakirti took Shatrughna's. Four circles of flame, four garlands, one night in which Mithila and Ayodhya agreed about the future. The women were not prizes at the edge of the shot. They were the house the shot had entered.",
+    "Janaka gave them away and did not look poorer."
+   ],
+   "hi": [
+    "अन्य तीन",
+    "लक्ष्मण ने उर्मिला से विवाह किया, और कविता पर उनका एक शांत ऋण है जिसे वह आंशिक ही चुकाती है।",
+    "मांडवी ने भरत का हाथ लिया। श्रुतकीर्ति ने शत्रुघ्न का। चार अग्निवृत्त, चार मालाएँ, एक रात जिसमें मिथिला और अयोध्या भविष्य पर सहमत हुईं। स्त्रियाँ निशाने के किनारे के पुरस्कार नहीं थीं। वे वह घर थीं जिसमें निशाना घुसा।",
+    "जनक ने उन्हें दिया और दरिद्र नहीं लगे।"
+   ]
+  },
+  "gifts": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Gifts and Farewell",
+    "Mithila tried to send a dowry large enough to embarrass a grateful man, and Dasharatha was appropriately embarrassed.",
+    "Elephants, gold, servants who would have to learn a new city's streets. Janaka's blessing was the lighter thing and the heavier. Go, he said, and be a house.",
+    "The chariots turned south. The bow's thunder was already a story the grooms were inside of."
+   ],
+   "hi": [
+    "उपहार और विदा",
+    "मिथिला ने इतनी बड़ी देय भेजनी चाही कि कृतज्ञ पुरुष लज्जित हो, और दशरथ उचित रूप से लज्जित हुए।",
+    "हाथी, स्वर्ण, सेवक जिन्हें नए नगर की सड़कें सीखनी होंगी। जनक का आशीर्वाद हल्की वस्तु था और भारी भी। जाओ, उन्होंने कहा, और घर बनो।",
+    "रथ दक्षिण मुड़े। धनुष की गर्जन पहले ही एक कथा थी जिसके भीतर वर थे।"
+   ]
+  },
+  "on-road-fury": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "A Fury on the Road",
+    "The wedding weather broke. A man stood in the way with an axe and an older anger.",
+    "Parashurama, Rama in another age, the brahmin who had emptied the warrior class when it grew insolent. He had heard Shiva's bow break. He had not come to bless the procession.",
+    "The horses stopped. Joy discovered it had a border."
+   ],
+   "hi": [
+    "मार्ग पर रोष",
+    "विवाह का मौसम टूटा। एक पुरुष कुल्हाड़ी और पुराने क्रोध के साथ मार्ग में खड़ा था।",
+    "परशुराम, दूसरी आयु के राम, वह ब्राह्मण जिसने क्षत्रिय कुल को गर्व से भरने पर खाली किया था। उन्होंने शिव का धनुष टूटते सुना था। वे जुलूस को आशीर्वाद देने नहीं आए थे।",
+    "घोड़े रुके। आनंद को अपनी सीमा मिली।"
+   ]
+  },
+  "whose-bow": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Whose Bow",
+    "He spoke to Rama as if the others were audience.",
+    "You broke it. Shiva's bow. Do you know what you touched, or did a wedding make you careless. I have another bow, Vishnu's own. If you are only a boy who was lucky in a hall, this one will instruct you.",
+    "Dasharatha's mouth went dry. The father who had feared demons now feared a sage with a grievance against kings."
+   ],
+   "hi": [
+    "किसका धनुष",
+    "उन्होंने राम से ऐसे बात की जैसे शेष दर्शक हों।",
+    "तुमने तोड़ा। शिव का धनुष। जानते हो क्या छुआ, या विवाह ने तुम्हें लापरवाह कर दिया। मेरे पास दूसरा धनुष है, विष्णु का। यदि तुम केवल एक बालक हो जिसे सभा में भाग्य मिला, यह तुम्हें सिखाएगा।",
+    "दशरथ का मुँह सूखा। जिस पिता को राक्षसों का भय था, अब राजाओं से रुष्ट एक मुनि का भय था।"
+   ]
+  },
+  "vishnu-bow": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Vishnu's Bow",
+    "Parashurama put it in Rama's hands and the procession became a test again.",
+    "It was heavier than the one that had broken, or it was heavier because of who offered it. Rama took it without the courtesy-theater of strain. Lakshmana's jaw set. The brahmin watched the fingers, not the face.",
+    "Stringing this would mean naming himself to someone who had the right to recognize him."
+   ],
+   "hi": [
+    "विष्णु का धनुष",
+    "परशुराम ने उसे राम के हाथ में रखा और जुलूस फिर परीक्षा बन गया।",
+    "वह टूटे हुए से भारी था, या इसलिए भारी था कि देने वाला कौन था। राम ने उसे तनाव के शिष्टाचार के बिना लिया। लक्ष्मण का जबड़ा कसा। ब्राह्मण ने चेहरा नहीं, उँगलियाँ देखीं।",
+    "इसे चढ़ाना अपने को उस व्यक्ति के सामने नाम देना था जिसे पहचानने का अधिकार था।"
+   ]
+  },
+  "where-land": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Where Shall It Land",
+    "Rama strung it, set an arrow, and asked the question that ended the anger.",
+    "This cannot be drawn and not released. Where shall it fall. Your austerity, or the worlds that have not offended me. Choose. Parashurama heard his own name inside the politeness and understood the asker.",
+    "The axe, suddenly, was an old tool in the presence of its owner."
+   ],
+   "hi": [
+    "यह कहाँ गिरे",
+    "राम ने चढ़ाया, बाण रखा, और वह प्रश्न पूछा जिसने क्रोध समाप्त किया।",
+    "इसे खींचकर न छोड़ना संभव नहीं। यह कहाँ गिरे। तुम्हारी तपस्या पर, या उन लोकों पर जिन्होंने मेरा अपराध नहीं किया। चुनो। परशुराम ने शिष्टता के भीतर अपना नाम सुना और पूछने वाले को पहचान लिया।",
+    "कुल्हाड़ी, अचानक, अपने स्वामी के सामने एक पुराना औजार थी।"
+   ]
+  },
+  "he-knows": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "He Knows",
+    "Parashurama yielded the merit of his tapas to the arrow's hunger and stepped off the road.",
+    "He was not defeated in the way armies are defeated. He was recognized, and recognition emptied him of the need to continue. He praised Rama, which from him was a surrender, and went toward the mountain he still had a right to.",
+    "The procession remembered how to breathe."
+   ],
+   "hi": [
+    "वे जान गए",
+    "परशुराम ने अपनी तपस्या का पुण्य बाण की भूख को दे दिया और मार्ग से हट गए।",
+    "वे वैसे पराजित नहीं हुए जैसे सेनाएँ होती हैं। वे पहचाने गए, और पहचान ने आगे बढ़ने की ज़रूरत खाली कर दी। उन्होंने राम की स्तुति की, जो उनसे समर्पण था, और उस पर्वत की ओर चले जिसका अधिकार अभी उनका था।",
+    "जुलूस को साँस याद आई।"
+   ]
+  },
+  "road-home": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Road Home",
+    "South of that meeting, the wedding became a journey again.",
+    "Rama pointed nothing out. He did not need to. Sita was seeing the country that would later be taken from her, and the poem allows her this unharmed looking. Urmila rode toward a city she would inhabit more loyally than the men who left it.",
+    "Dasharatha counted the days backward from fear to arrival."
+   ],
+   "hi": [
+    "घर का मार्ग",
+    "उस भेंट के दक्षिण, विवाह फिर यात्रा बन गया।",
+    "राम ने कुछ नहीं दिखाया। ज़रूरत नहीं थी। सीता उस देश को देख रही थीं जो बाद में उनसे लिया जाएगा, और कविता उन्हें यह बिना चोट का देखना देती है। उर्मिला एक ऐसे नगर की ओर चलीं जिसमें वे उन पुरुषों से अधिक निष्ठा से रहेंगी जो उसे छोड़ेंगे।",
+    "दशरथ भय से आगमन तक दिन उलटा गिन रहे थे।"
+   ]
+  },
+  "gates-open": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Gates Open",
+    "Ayodhya did not wait at the threshold. It came out.",
+    "Drums, women on the walls, a king entering with more children than he had left with and with daughters the city immediately began to love. Kausalya saw Sita and understood the bowl of payasam had been answered in a face.",
+    "The streets made a noise the poet compares, kindly, to an ocean that has decided to be happy."
+   ],
+   "hi": [
+    "द्वार खुले",
+    "अयोध्या देहली पर नहीं रुकी। वह बाहर आई।",
+    "नगाड़े, दीवारों पर स्त्रियाँ, एक राजा जितने बच्चों के साथ गया था उससे अधिक के साथ लौटा, और पुत्रियों के साथ जिन्हें नगर तुरंत प्रेम करने लगा। कौशल्या ने सीता को देखा और समझा कि पायस के पात्र का उत्तर एक मुख में मिला है।",
+    "सड़कों ने वह शोर किया जिसकी तुलना कवि दयालुता से एक ऐसे समुद्र से करता है जिसने सुखी होने का निश्चय किया हो।"
+   ]
+  },
+  "sita-enters": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Sita Enters the House",
+    "The palace had to become large enough for four new women and the quiet between them.",
+    "Sita learned the corridors. Urmila learned which window faced the practice yard. The mothers-in-law were not a single weather. Kausalya's warmth, Kaikeyi's brilliance, Sumitra's steadiness: the house had climates, and the brides walked into all of them.",
+    "For now, every climate was kind. The book of childhood and marriage ends while that is still true."
+   ],
+   "hi": [
+    "सीता घर में आती हैं",
+    "महल को चार नई स्त्रियों और उनके बीच के सन्नाटे के लिए बड़ा होना पड़ा।",
+    "सीता ने गलियारे सीखे। उर्मिला ने जाना कौन सी खिड़की अभ्यास-भूमि की ओर है। सास एक ही मौसम नहीं थीं। कौशल्या की ऊष्मा, कैकेयी की दीप्ति, सुमित्रा की स्थिरता: घर में जलवायु थीं, और वधुएँ उन सब में चलीं।",
+    "अभी हर जलवायु दयालु थी। बाल्य और विवाह की पुस्तक तब समाप्त होती है जब यह अभी सत्य है।"
+   ]
+  },
+  "book-closes": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The First Book Rests",
+    "Valmiki sets the stylus down on a city that believes its joy has arrived to stay.",
+    "Rama is home. Sita is beside him. The bow is broken, the axe has gone up the mountain, the fathers are alive. Anyone ending here would call it a happy poem. The poet knows the leaf under this one.",
+    "Bala Kanda closes the way a held breath closes. The next breath is Ayodhya's, and it will hurt."
+   ],
+   "hi": [
+    "पहली पुस्तक विश्राम करती है",
+    "वाल्मीकि लेखनी उस नगर पर रखते हैं जो मानता है कि उसका सुख रहने आया है।",
+    "राम घर हैं। सीता पास हैं। धनुष टूटा, कुल्हाड़ी पर्वत पर गई, पिता जीवित हैं। यहीं समाप्त करने वाला इसे सुखी काव्य कहेगा। कवि जानता है इस पत्ते के नीचे का पत्ता।",
+    "बालकांड रुकी साँस की तरह बंद होता है। अगली साँस अयोध्या की है, और वह दुखेगी।"
+   ]
+  },
+  "heir-named": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "The Heir Is Named",
+    "Ayodhya Kanda opens on a city preparing a joy it will not be allowed to finish.",
+    "Dasharatha is old. The ministers say what the streets have already decided: Rama should be yuvaraja. The king agrees with the relief of a man putting down a weight. Lamps are planned. The date is set. Sita hears it as a wife hears news that rearranges a house.",
+    "No one in the room is thinking of an old promise."
+   ],
+   "hi": [
+    "युवराज का नाम",
+    "अयोध्याकांड एक ऐसे आनंद पर खुलता है जिसे नगर पूरा नहीं करने दिया जाएगा।",
+    "दशरथ वृद्ध हैं। मंत्री वह कहते हैं जो सड़कें तय कर चुकी हैं: राम युवराज हों। राजा उस मनुष्य की राहत से मान जाते हैं जो बोझ उतार रहा हो। दीपों की योजना होती है। तिथि रखी जाती है। सीता इसे वैसे सुनती हैं जैसे एक पत्नी घर बदल देने वाली खबर सुनती है।",
+    "कमरे में कोई एक पुराने वचन के बारे में नहीं सोच रहा।"
+   ]
+  },
+  "manthara": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "Manthara",
+    "Kaikeyi's maid sees the lamps and understands them as a loss.",
+    "Manthara is not a demon in this poem. She is a servant who loves her queen's son more than the city's happiness, and she is very good at fear. She goes to Kaikeyi, who is pleased at Rama's rise, and stays until that pleasure is gone.",
+    "A kingdom can be turned by someone who is not in the council at all."
+   ],
+   "hi": [
+    "मंथरा",
+    "कैकेयी की दासी दीप देखती है और उन्हें अपनी हानि समझती है।",
+    "इस काव्य में मंथरा राक्षसी नहीं है। वह सेविका है जो नगर के सुख से अधिक अपनी रानी के पुत्र को चाहती है, और भय जगाने में प्रवीण है। वह कैकेयी के पास जाती है, जो राम के उत्कर्ष से प्रसन्न है, और तब तक रहती है जब तक वह प्रसन्नता नहीं मिटती।",
+    "एक राज्य उसे मोड़ सकता है जो मंत्रिपरिषद में है ही नहीं।"
+   ]
+  },
+  "two-boons": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "Two Boons",
+    "Kaikeyi asks for the two gifts Dasharatha once placed in her hands, and she names them without blinking.",
+    "Bharata will be consecrated. Rama will go to the forest for fourteen years, in bark, as an ascetic, not as a prince on a hunt. The king, who has never refused her, finds that a promise kept can be a kind of death. He falls. He does not unsay it.",
+    "Valmiki does not soften the asking. The verse lets the room go quiet."
+   ],
+   "hi": [
+    "दो वर",
+    "कैकेयी उन दो वरों को माँगती हैं जो दशरथ ने कभी उनके हाथ रख दिए थे, और बिना पलक झपकाए उनका नाम लेती हैं।",
+    "भरत का राज्याभिषेक होगा। राम चौदह वर्ष के लिए वन जाएँगे, वल्कल में, तपस्वी की भाँति, शिकार पर निकले राजकुमार की भाँति नहीं। राजा, जिसने उन्हें कभी नहीं टाला, पाता है कि निबाहा गया वचन एक प्रकार की मृत्यु हो सकता है। वह गिरते हैं। वचन वापस नहीं लेते।",
+    "वाल्मीकि इस माँग को नरम नहीं करते। पद्य कमरे को शांत होने देता है।"
+   ]
+  },
+  "rama-accepts": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "Rama Accepts",
+    "They send for Rama as if the news were still a coronation.",
+    "He comes in the clothes of a man about to be crowned and hears a sentence of exile from his father's silence and his stepmother's mouth. He does not argue with the boon. He does not ask the king to break it. In Valmiki the obedience is immediate, and that immediacy is the whole character.",
+    "He goes to tell Sita, believing she will stay."
+   ],
+   "hi": [
+    "राम मानते हैं",
+    "वे राम को ऐसे बुलाते हैं मानो समाचार अभी भी राज्याभिषेक का हो।",
+    "वे अभिषेक के वस्त्रों में आते हैं और वनवास का वाक्य पिता के मौन से और विमाता के मुख से सुनते हैं। वर से विवाद नहीं करते। राजा से वचन तोड़ने को नहीं कहते। वाल्मीकि में यह आज्ञाकारिता तत्काल है, और वही तत्काल उनका पूरा चरित्र है।",
+    "वे सीता को बताने जाते हैं, यह मानकर कि वे रुकेंगी।"
+   ]
+  },
+  "sita-will-go": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "Sita Will Go",
+    "Sita refuses the palace the way a person refuses a life that has already ended.",
+    "She will not be kept safe in Ayodhya while he walks. The poem gives her a long argument, and she wins it. Lakshmana does not ask. He has already chosen the road, and he leaves Urmila in the city. Later tellings will give Urmila a sleep that lasts the fourteen years. Valmiki gives her the harder thing: she stays awake, and she stays.",
+    "Three leave. A household learns what a door is for."
+   ],
+   "hi": [
+    "सीता चलेंगी",
+    "सीता महल को वैसे ठुकराती हैं जैसे कोई उस जीवन को ठुकराए जो समाप्त हो चुका हो।",
+    "वे अयोध्या में सुरक्षित नहीं रहेंगी जब वे चल रहे हों। काव्य उन्हें लंबा तर्क देता है, और वे जीतती हैं। लक्ष्मण नहीं पूछते। उन्होंने मार्ग पहले ही चुन लिया है, और उर्मिला को नगर में छोड़ते हैं। बाद की कथाएँ उर्मिला को चौदह वर्ष की नींद देंगी। वाल्मीकि उन्हें कठिन वस्तु देते हैं: वे जागती रहती हैं, और रहती हैं।",
+    "तीन निकलते हैं। एक घर सीखता है कि द्वार किसलिए होता है।"
+   ]
+  },
+  "the-leaving": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "The Leaving",
+    "The city comes into the road and will not let the chariot go cleanly.",
+    "Dasharatha follows until he cannot. Kausalya follows until the dust decides. Sumantra drives, and then, at the forest's edge, he is sent back with a message that is mostly a father's unbroken voice. Rama, Sita, and Lakshmana cross into the trees on foot. Behind them Ayodhya begins the work of becoming a city without its heir.",
+    "The king does not recover his stride. He will not recover his life."
+   ],
+   "hi": [
+    "प्रस्थान",
+    "नगर सड़क पर आ जाता है और रथ को साफ निकलने नहीं देता।",
+    "दशरथ तब तक पीछे आते हैं जब तक नहीं आ सकते। कौशल्या तब तक जब तक धूल निर्णय न कर ले। सुमंत हाँकते हैं, और फिर वन की सीमा पर उन्हें एक संदेश के साथ लौटा दिया जाता है जो अधिकतर एक पिता की न टूटी आवाज़ है। राम, सीता और लक्ष्मण पैदल वृक्षों में प्रवेश करते हैं। उनके पीछे अयोध्या अपने युवराज के बिना नगर होने का काम शुरू करती है।",
+    "राजा की चाल नहीं लौटती। उनका जीवन भी नहीं लौटेगा।"
+   ]
+  },
+  "guha-night": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "Guha's Night",
+    "At the river, the chieftain Guha meets them as a friend, not as a subject performing grief.",
+    "He offers his place, his food, his watch. Rama will not sleep in a bed. Lakshmana will not sleep at all: he stands the night with a bow while Guha keeps him company and learns what this exile is going to cost the people who love the prince. In the morning they cross. The boatman in later songs will ask to wash their feet. Valmiki's ferryman simply takes them over.",
+    "On the far bank, the city is already a rumor."
+   ],
+   "hi": [
+    "गुह की रात",
+    "नदी पर सरदार गुह उनसे मित्र की भाँति मिलते हैं, प्रजा की भाँति नहीं जो शोक का अभिनय कर रही हो।",
+    "वे अपना स्थान, अपना अन्न, अपनी चौकसी देते हैं। राम शय्या पर नहीं सोएँगे। लक्ष्मण सोएँगे ही नहीं: वे धनुष लिए रात खड़े रहते हैं, गुह साथ देते हैं और सीखते हैं कि यह वनवास राजकुमार को चाहने वालों को कितना महँगा पड़ेगा। सुबह वे पार करते हैं। बाद के गीतों में केवट पैर धोने को कहेगा। वाल्मीकि का केवट उन्हें बस पार करा देता है।",
+    "उस पार नगर पहले ही एक अफवाह है।"
+   ]
+  },
+  "king-dies": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "The King Dies",
+    "Dasharatha dies calling a name the palace cannot answer.",
+    "Before the end he tells Kausalya the old guilt: as a young hunter he had loosed an arrow at a sound and killed a boy who was filling a pot for his blind parents, and the father cursed him to die of grief for a son. The curse arrives on time. Bharata is away in Kekaya. The throne sits in a house where no one will sit on it.",
+    "Ayodhya keeps the body and loses the meaning of morning."
+   ],
+   "hi": [
+    "राजा की मृत्यु",
+    "दशरथ एक नाम पुकारते हुए मरते हैं जिसका उत्तर महल नहीं दे सकता।",
+    "अंत से पहले वे कौशल्या को पुराना दोष बताते हैं: युवा शिकारी होकर उन्होंने एक ध्वनि पर बाण छोड़ा था और उस बालक को मारा था जो अपने अंधे माता-पिता के लिए घट भर रहा था, और पिता ने शाप दिया था कि वे पुत्र के शोक में मरेंगे। शाप समय पर आता है। भरत केकय में हैं। सिंहासन एक ऐसे घर में बैठा है जहाँ कोई उस पर बैठेगा नहीं।",
+    "अयोध्या देह रखती है और सुबह का अर्थ खो देती है।"
+   ]
+  },
+  "bharata-refuses": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "Bharata Refuses",
+    "Bharata comes home to a funeral and a crown, and he will take only one of them.",
+    "He has not asked for this. When he learns the boons were used in his name, his anger at his mother is the cleanest thing in the book. He will not be king over Rama's absence. He gathers the city, the mothers, the priests, and an army of grief, and he marches to the forest to bring his brother back.",
+    "The road south is full of people who agree with him and cannot change the vow."
+   ],
+   "hi": [
+    "भरत अस्वीकार करते हैं",
+    "भरत एक अंत्येष्टि और एक मुकुट के लिए घर आते हैं, और उनमें से केवल एक लेंगे।",
+    "उन्होंने यह नहीं माँगा। जब जानते हैं कि वर उनके नाम पर खर्चे गए, माता पर उनका क्रोध इस कांड की सबसे साफ वस्तु है। वे राम की अनुपस्थिति पर राजा नहीं बनेंगे। नगर, माताएँ, पुरोहित, और शोक की एक सेना लेकर वे भाई को लौटाने वन चलते हैं।",
+    "दक्षिण का मार्ग उन लोगों से भरा है जो उनसे सहमत हैं और वचन नहीं बदल सकते।"
+   ]
+  },
+  "the-sandals": {
+   "kanda": "Ayodhya Kanda",
+   "en": [
+    "The Sandals",
+    "At Chitrakuta the brothers meet, and the forest does not give Bharata what he came for.",
+    "Rama will not return. Fourteen years were named, and a named promise is not a mood. Bharata asks, argues, weeps, and at last takes what can be carried back: Rama's sandals. He will set them above the throne at Nandigrama and rule as their servant, not as king. The city will be governed by a pair of wooden feet.",
+    "Ayodhya Kanda ends there. The exile has an heir, and the heir is an absence."
+   ],
+   "hi": [
+    "पादुकाएँ",
+    "चित्रकूट पर भाई मिलते हैं, और वन भरत को वह नहीं देता जिसके लिए वे आए।",
+    "राम नहीं लौटेंगे। चौदह वर्ष नाम लिए गए थे, और नाम लिया वचन मनोभाव नहीं होता। भरत माँगते हैं, तर्क करते हैं, रोते हैं, और अंत में वह लेते हैं जो वापस ले जाया जा सकता है: राम की पादुकाएँ। वे उन्हें नंदिग्राम में सिंहासन के ऊपर रखेंगे और राजा की भाँति नहीं, उनके सेवक की भाँति शासन करेंगे। नगर का शासन लकड़ी के दो पैर करेंगे।",
+    "अयोध्याकांड वहीं समाप्त होता है। वनवास का एक उत्तराधिकारी है, और वह उत्तराधिकारी एक अनुपस्थिति है।"
+   ]
+  },
+  "panchavati": {
+   "kanda": "Aranya Kanda",
+   "en": [
+    "Panchavati",
+    "Aranya Kanda settles them in a leaf-hut where five trees stand and a river keeps time.",
+    "Years have already been walked: sages sheltered, demons turned off the paths, the quiet labor of an exile that is also a protection. At Panchavati, Sita asks for a home that faces the water. Lakshmana builds it. For a while the poem is only weather, food, and the particular peace of three people who have learned each other's silences.",
+    "The peace is real. It is also the last of its kind."
+   ],
+   "hi": [
+    "पंचवटी",
+    "अरण्यकांड उन्हें एक पर्णकुटी में बसाता है जहाँ पाँच वृक्ष खड़े हैं और एक नदी समय रखती है।",
+    "वर्ष पहले ही चल लिए गए हैं: ऋषियों की रक्षा, पथों से राक्षसों का हटना, उस वनवास का शांत श्रम जो रक्षा भी है। पंचवटी में सीता जल की ओर मुख किए घर माँगती हैं। लक्ष्मण उसे बनाते हैं। कुछ देर काव्य केवल मौसम, अन्न, और उन तीनों की शांति है जिन्होंने एक-दूसरे का मौन सीख लिया है।",
+    "शांति सच है। वह अपनी तरह की अंतिम भी है।"
+   ]
+  },
+  "shurpanakha": {
+   "kanda": "Aranya Kanda",
+   "en": [
+    "Shurpanakha",
+    "A rakshasi comes to the hut and wants Rama, and the afternoon turns.",
+    "Shurpanakha is Ravana's sister. Rama refuses her. The brothers mock the offer between them, and when she moves on Sita, Lakshmana cuts away her nose and ears. Valmiki records the mutilation without the later comfort that it was only a trick. She goes bleeding to her brothers. The forest, which had been a hermitage, remembers it is also a kingdom of rakshasas.",
+    "What follows is not a private insult. It is a war, arriving early."
+   ],
+   "hi": [
+    "शूर्पणखा",
+    "एक राक्षसी कुटी पर आती है और राम को चाहती है, और दोपहर मुड़ जाती है।",
+    "शूर्पणखा रावण की बहन है। राम उसे अस्वीकार करते हैं। भाई प्रस्ताव का उपहास करते हैं, और जब वह सीता पर बढ़ती है, लक्ष्मण उसकी नाक और कान काट देते हैं। वाल्मीकि यह विरूपण लिखते हैं, बाद के उस दिलासे के बिना कि यह केवल क्रीड़ा थी। वह रक्त बहाती भाइयों के पास जाती है। वन, जो आश्रम था, याद करता है कि वह राक्षसों का राज्य भी है।",
+    "आगे जो होता है वह निजी अपमान नहीं। वह युद्ध है, जल्दी आ गया।"
+   ]
+  },
+  "khara-falls": {
+   "kanda": "Aranya Kanda",
+   "en": [
+    "Khara Falls",
+    "Khara, Dushana, and fourteen thousand come for the hut, and Rama meets them alone.",
+    "He sends Sita and Lakshmana to a cave and stands in the open. The poem's battle here is terrible and exact: arrows, chariots, the names of the fallen. Khara dies. The news travels to Lanka by the one who fled it, Shurpanakha, and she tells it to Ravana in the only form that can move him. Your sister was maimed. A man in the forest did it. His wife is beautiful.",
+    "Ravana does not ride out in anger. He rides out in a plan."
+   ],
+   "hi": [
+    "खर का पतन",
+    "खर, दूषण और चौदह हज़ार कुटी के लिए आते हैं, और राम उनसे अकेले मिलते हैं।",
+    "वे सीता और लक्ष्मण को गुफा में भेजकर खुले में खड़े होते हैं। यहाँ का युद्ध भयंकर और सटीक है: बाण, रथ, गिरे हुओं के नाम। खर मरता है। समाचार लंका तक वह ले जाती है जो भाग निकली, शूर्पणखा, और उसे रावण से उसी रूप में कहती है जो उसे हिला सकता है। तुम्हारी बहन विकृत की गई। वन के एक पुरुष ने किया। उसकी पत्नी सुंदर है।",
+    "रावण क्रोध में नहीं निकलता। वह योजना में निकलता है।"
+   ]
+  }
+ }
+}

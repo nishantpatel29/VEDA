@@ -1,0 +1,30 @@
+{
+ "title": "Mahabharata",
+ "mark": "महाभारत",
+ "copy": {
+  "note": "A hundred pages, in story order, from the snake sacrifice to the last refusal. The long counsel after the war is not retold page for page. On the chariot, the Gita is the turn, not the whole recitation.",
+  "doneTitle": "The Mahabharata is complete",
+  "doneBody": "The story stops where Yudhishthira refuses a heaven without his own people. It does not return to the start."
+ },
+ "kandas": [
+  "The Telling",
+  "Beginnings",
+  "The School",
+  "Fire and Forest",
+  "The Bride",
+  "Indraprastha",
+  "The Assembly",
+  "Exile",
+  "The Hidden Year",
+  "The Choice",
+  "The War",
+  "What Remained",
+  "The End"
+ ],
+ "story": {
+  "gateTitle": "This part ends",
+  "gateBody": "{from} ends here. {to} is next, when you are ready.",
+  "epicEnd": "The end of the epic",
+  "nextWord": "Next"
+ }
+}

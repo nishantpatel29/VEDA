@@ -1,0 +1,9 @@
+{
+  "appId": "com.ramayana.reader",
+  "appName": "VEDA",
+  "webDir": "www",
+  "backgroundColor": "#090704",
+  "android": {
+    "allowMixedContent": false
+  }
+}

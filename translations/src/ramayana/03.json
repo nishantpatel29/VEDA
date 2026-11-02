@@ -1,0 +1,441 @@
+{
+ "work": "ramayana",
+ "chunk": 3,
+ "pages": {
+  "welcome": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Welcome",
+    "For a day the visit looked like any other holy arrival.",
+    "Food, praise, the story of the sage's long war with his own anger, which had ended in a power even the gods consulted. Rama watched from the side, a youth being shown what an ascetic who has finished becoming looks like.",
+    "Vishwamitra let himself be hosted. Hospitality was not the request. It was the pause before it."
+   ],
+   "hi": [
+    "स्वागत",
+    "एक दिन तक भेंट किसी भी अन्य पवित्र आगमन जैसी लगी।",
+    "भोजन, स्तुति, मुनि के अपने क्रोध से लंबे युद्ध की कथा, जो ऐसी शक्ति पर समाप्त हुआ था जिससे देवता भी पूछते थे। राम किनारे से देखते रहे, एक युवा जिसे दिखाया जा रहा था कि तपस्वी जब बन चुका हो तो कैसा दिखता है।",
+    "विश्वामित्र ने अतिथि होना स्वीकार किया। आतिथ्य माँग नहीं थी। वह माँग से पहले का विराम था।"
+   ]
+  },
+  "the-ask": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "He Names Rama",
+    "Then he said the sentence the welcome had been holding.",
+    "Give me Rama. The demons Maricha and Subahu foul my sacrifice. Your armies will not do. I need the boy, and I need him for a handful of nights. I will return him to you.",
+    "The hall heard a sage ask for a prince the way a man asks for a tool that happens to be someone's child."
+   ],
+   "hi": [
+    "वे राम का नाम लेते हैं",
+    "फिर उन्होंने वह वाक्य कहा जिसे स्वागत रोककर बैठा था।",
+    "मुझे राम दो। राक्षस मारीच और सुबाहु मेरे यज्ञ को अपवित्र करते हैं। तुम्हारी सेनाएँ नहीं चलेंगी। मुझे बालक चाहिए, कुछ रातों के लिए। मैं उसे लौटा दूँगा।",
+    "सभा ने सुना कि एक मुनि राजकुमार को वैसे माँग रहा है जैसे कोई ऐसा उपकरण माँगे जो संयोग से किसी की संतान हो।"
+   ]
+  },
+  "fathers-no": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "A Father's No",
+    "Dasharatha answered as a father first, which is why the answer was insufficient.",
+    "He is not sixteen in the way a weapon is sixteen. He has not stood in a war. Take me. Take the army. Take the elephants. Do not take the morning I have only just been given.",
+    "The king was not wrong about the danger. He was wrong about who the boy was."
+   ],
+   "hi": [
+    "पिता का न",
+    "दशरथ ने पहले पिता की तरह उत्तर दिया, इसलिए उत्तर अधूरा था।",
+    "वह सोलह वर्ष का हथियार नहीं है। उसने युद्ध में नहीं खड़ा हुआ। मुझे ले जाओ। सेना ले जाओ। हाथी ले जाओ। वह सुबह मत लो जो मुझे अभी-अभी मिली है।",
+    "राजा खतरे के बारे में गलत नहीं थे। वे इस बारे में गलत थे कि बालक कौन है।"
+   ]
+  },
+  "i-will-go": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Take Me Instead",
+    "He offered his own aging body as if love could be swapped unit for unit.",
+    "Vishwamitra did not insult the offer. He refused it. A king's courage was not the shape required. The shape required was Rama's, and the sage had not walked this far to negotiate a substitute.",
+    "Dasharatha sat down inside his no, and found it already cracking."
+   ],
+   "hi": [
+    "मेरे को ले जाओ",
+    "उन्होंने अपनी बूढ़ी देह ऐसे अर्पित की जैसे प्रेम को इकाई-दर-इकाई बदला जा सके।",
+    "विश्वामित्र ने अर्पण का अपमान नहीं किया। उन्होंने उसे अस्वीकार किया। राजा का साहस वह आकार नहीं था जिसकी ज़रूरत थी। आकार राम का था, और मुनि विकल्प मोलभाव करने इतनी दूर नहीं चले थे।",
+    "दशरथ अपने न के भीतर बैठ गए, और उसे पहले ही चटखता पाया।"
+   ]
+  },
+  "vashishtha-speaks": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Vashishtha Speaks",
+    "The royal priest told the king the truth that fathers hear as cruelty.",
+    "This guest is not a neighbor who has overasked. He is Vishwamitra. The boy is not only your son. If you refuse, you refuse dharma wearing a father's face, and the sage's anger will be a second drought.",
+    "Vashishtha did not say Rama would be safe. He said Rama was the one the errand had been shaped for."
+   ],
+   "hi": [
+    "वशिष्ठ बोलते हैं",
+    "राजपुरोहित ने राजा को वह सत्य कहा जिसे पिता क्रूरता सुनते हैं।",
+    "यह अतिथि अधिक माँगने वाला पड़ोसी नहीं है। यह विश्वामित्र है। बालक केवल तुम्हारा पुत्र नहीं है। यदि तुम मना करोगे, तो पिता के चेहरे में धर्म को मना करोगे, और मुनि का क्रोध दूसरी सूखा होगा।",
+    "वशिष्ठ ने नहीं कहा कि राम सुरक्षित रहेंगे। उन्होंने कहा कि राम वही हैं जिसके लिए यह काम बना है।"
+   ]
+  },
+  "consent": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Consent",
+    "Dasharatha gave the boy with both hands, which is the only honest way to give what you hate to give.",
+    "He called Rama and Lakshmana, because Lakshmana would not have stayed if the calling had forgotten him. The sage looked at the pair and nodded as if the second had been included in the first.",
+    "A father can obey and still be broken. The poem lets him be both."
+   ],
+   "hi": [
+    "सहमति",
+    "दशरथ ने बालक को दोनों हाथों से दिया, जो उस वस्तु को देने का एकमात्र ईमानदार ढंग है जिसे देना तुम घृणा करते हो।",
+    "उन्होंने राम और लक्ष्मण को बुलाया, क्योंकि बुलाने में भूल जाने पर लक्ष्मण रहता नहीं। मुनि ने जोड़े को देखा और ऐसे सहमति दी जैसे दूसरा पहले में शामिल रहा हो।",
+    "पिता आज्ञा मान सकता है और फिर भी टूटा रह सकता है। कविता उसे दोनों रहने देती है।"
+   ]
+  },
+  "dawn-leave": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "They Leave at Dawn",
+    "The city that had just learned their names watched them walk out behind a sage.",
+    "No chariot. The lesson had already started: princes who cannot walk will be useless in the forest they are going to meet. Kausalya did not make a scene. The scene was the leaving.",
+    "Dasharatha stood until the small figures were a grammar of distance."
+   ],
+   "hi": [
+    "वे उषा में चलते हैं",
+    "जिस नगर ने अभी उनके नाम सीखे थे, उसने उन्हें एक मुनि के पीछे जाते देखा।",
+    "कोई रथ नहीं। पाठ शुरू हो चुका था: जो राजकुमार चल न सकें, वे उस वन में व्यर्थ होंगे जिससे उन्हें मिलना है। कौशल्या ने दृश्य नहीं बनाया। दृश्य प्रस्थान ही था।",
+    "दशरथ तब तक खड़े रहे जब तक छोटी आकृतियाँ दूरी का व्याकरण न बन गईं।"
+   ]
+  },
+  "bala-mantra": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Bala and Atibala",
+    "On the first road Vishwamitra gave them two vidyas, Bala and Atibala.",
+    "Not weapons yet. A way of not tiring, of not going hungry, of keeping the mind clear when the body wanted to negotiate. Rama received them as he received everything from this teacher: completely, without display.",
+    "The forest began as a classroom that did not announce itself."
+   ],
+   "hi": [
+    "बला और अतिबला",
+    "पहले मार्ग पर विश्वामित्र ने उन्हें दो विद्याएँ दीं, बला और अतिबला।",
+    "अभी अस्त्र नहीं। थकने से बचने का ढंग, भूख से, और मन को साफ रखने का जब शरीर मोलभाव करना चाहे। राम ने उन्हें वैसे लिया जैसे इस गुरु से सब कुछ: पूरा, बिना प्रदर्शन।",
+    "वन एक कक्षा की तरह शुरू हुआ जिसने अपना परिचय नहीं दिया।"
+   ]
+  },
+  "spoiled": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "A Spoiled Wood",
+    "The trees changed before the demon did. That is how a curse occupies land.",
+    "Vishwamitra told them they were entering Tataka's forest. Birds had left. The light arrived tired. A place can be guilty without being confused about who did it.",
+    "Rama listened to the history before he was asked to act on it. The sage did not want a boy who shot first and understood later."
+   ],
+   "hi": [
+    "बिगड़ा वन",
+    "राक्षसी से पहले वृक्ष बदले। शाप भूमि पर ऐसे बसता है।",
+    "विश्वामित्र ने कहा वे ताटका के वन में घुस रहे हैं। पक्षी जा चुके थे। प्रकाश थककर आता था। स्थान दोषी हो सकता है और फिर भी यह स्पष्ट रख सकता है कि किसने किया।",
+    "राम ने इतिहास सुना, कर्म से पहले। मुनि ऐसा बालक नहीं चाहते थे जो पहले चलाए और बाद में समझे।"
+   ]
+  },
+  "who-tataka": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Who She Was",
+    "Tataka had been a yaksha's daughter, strong enough that strength became her weather.",
+    "Suketu begot her. She married Sunda. She bore Maricha. A curse and a grief turned her hunger into a reign over a forest people had abandoned. The poem gives her a before, so the killing is not of a fog.",
+    "Rama was being asked to end a person, not a rumor."
+   ],
+   "hi": [
+    "वह कौन थी",
+    "ताटका एक यक्ष की पुत्री थी, इतनी बलवती कि बल उसका मौसम बन गया।",
+    "सुकेतु से जन्मी। सुंद से ब्याही। मारीच की माता। एक शाप और एक शोक ने उसकी भूख को उस वन का राज्य बना दिया जिसे लोग छोड़ चुके थे। कविता उसे एक पहले देती है, ताकि वध कोहरे का वध न हो।",
+    "राम से एक व्यक्ति को समाप्त करने को कहा जा रहा था, अफवाह को नहीं।"
+   ]
+  },
+  "maricha-son": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Her Son",
+    "Maricha was already a name in the sage's grievance, and a name the later forest would reuse.",
+    "Vishwamitra did not pretend the family was simple. A mother, a son, a second demon Subahu: the sacrifice ahead was being interrupted by a house, not by a random storm.",
+    "Rama held that complication and did not use it as a reason to do nothing. Compassion that cannot act is only a mood."
+   ],
+   "hi": [
+    "उसका पुत्र",
+    "मारीच पहले ही मुनि की व्यथा में एक नाम था, और एक नाम जिसे बाद का वन फिर इस्तेमाल करेगा।",
+    "विश्वामित्र ने परिवार को सरल नहीं दिखाया। एक माता, एक पुत्र, दूसरा राक्षस सुबाहु: आगे का यज्ञ एक घर से बाधित हो रहा था, अचानक तूफान से नहीं।",
+    "राम ने उस उलझन को रखा और उसे कुछ न करने का कारण नहीं बनाया। करुणा जो कर्म न कर सके, केवल मनोदशा है।"
+   ]
+  },
+  "enter-wood": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "They Cross In",
+    "The air smelled of a place that had not been prayed in for a long time.",
+    "Lakshmana walked half a step behind, which was already his vow. Vishwamitra's staff made the only civilized sound. Rama's eyes had gone to the work. Youth left his face without announcement.",
+    "Somewhere in the spoiled green, something large turned toward the sound of three people who had not asked permission."
+   ],
+   "hi": [
+    "वे भीतर जाते हैं",
+    "वायु में एक ऐसी जगह की गंध थी जहाँ लंबे समय से प्रार्थना नहीं हुई थी।",
+    "लक्ष्मण आधा कदम पीछे चले, जो पहले ही उनका व्रत था। विश्वामित्र का दंड एकमात्र सभ्य ध्वनि था। राम की आँखें काम पर जा चुकी थीं। युवावस्था उनके चेहरे से बिना घोषणा के उतरी।",
+    "बिगड़ी हरियाली में कहीं कुछ बड़ा उस आवाज़ की ओर मुड़ा, तीन लोगों की, जिन्होंने अनुमति नहीं माँगी थी।"
+   ]
+  },
+  "she-comes": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "She Comes",
+    "Tataka arrived as weather that had decided to wear a body.",
+    "Dust, a roar, the size of her. She was not a riddle. She was the reason the forest had no villages. Rama saw her and still did not loose, because the last instruction in his hands was a hesitation about killing a woman.",
+    "The sage had expected that hesitation. He had brought a teaching, not only a guard."
+   ],
+   "hi": [
+    "वह आती है",
+    "ताटका ऐसे मौसम की तरह आई जिसने देह पहनने का निश्चय कर लिया हो।",
+    "धूल, गर्जन, उसका आकार। वह पहेली नहीं थी। वह कारण थी कि वन में गाँव नहीं थे। राम ने उसे देखा और फिर भी नहीं छोड़ा, क्योंकि हाथ में अंतिम शिक्षा एक स्त्री के वध पर हिचक थी।",
+    "मुनि को उस हिचक की आशा थी। वे केवल रक्षक नहीं, पाठ लाए थे।"
+   ]
+  },
+  "hesitates": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "He Hesitates",
+    "Vishwamitra answered the hesitation in the open, so the killing would not be private from conscience.",
+    "Cruelty wearing any form is still the thing a king is for. She is not a woman you are being asked to humiliate. She is a power that has emptied a country. If you will not end it, you are choosing the villages.",
+    "Rama heard it as dharma, not as permission to enjoy the shot."
+   ],
+   "hi": [
+    "वह हिचकिचाता है",
+    "विश्वामित्र ने हिचक का उत्तर खुले में दिया, ताकि वध अंतरात्मा से निजी न रहे।",
+    "किसी भी रूप में क्रूरता वही है जिसके लिए राजा होता है। तुमसे एक स्त्री का अपमान नहीं माँगा जा रहा। तुमसे एक ऐसी शक्ति को रोका जा रहा है जिसने देश खाली कर दिया। यदि तुम इसे न समाप्त करोगे, तो गाँवों को चुनोगे।",
+    "राम ने इसे धर्म सुना, बाण का आनंद लेने की अनुमति नहीं।"
+   ]
+  },
+  "arrow": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Arrow",
+    "He shot, and the forest got its sound back.",
+    "Tataka fell. The poem does not dance on the body. It records a necessary end and the quiet afterward, which was birds returning in their minds before they returned in fact. Lakshmana looked at his brother and saw the boy and the king in the same hour.",
+    "Vishwamitra said nothing decorative. The next gift was already in the air."
+   ],
+   "hi": [
+    "बाण",
+    "उसने चलाया, और वन को अपनी ध्वनि वापस मिली।",
+    "ताटका गिरी। कविता देह पर नाचती नहीं। वह एक आवश्यक अंत लिखती है और बाद का सन्नाटा, जो पक्षियों का मन में लौटना था, तथ्य में लौटने से पहले। लक्ष्मण ने भाई को देखा और एक ही घंटे में बालक और राजा दोनों देखे।",
+    "विश्वामित्र ने सजावटी कुछ नहीं कहा। अगला वरदान पहले ही वायु में था।"
+   ]
+  },
+  "gods-watch": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Gods Approve",
+    "They had been watching, which in this book means they were about to arm him.",
+    "A voice, or the pressure of many voices, told Vishwamitra the prince was ready for what ordinary quivers do not hold. Rama stood in the cleared air and did not pose. Readiness in him looked like attention.",
+    "The sage lifted his hand. The sky answered with things that had names."
+   ],
+   "hi": [
+    "देवता स्वीकृति देते हैं",
+    "वे देख रहे थे, जिसका इस ग्रंथ में अर्थ है कि वे उसे सशस्त्र करने वाले थे।",
+    "एक स्वर, या अनेक स्वरों का दबाव, ने विश्वामित्र से कहा कि राजकुमार उसके लिए तैयार है जिसे साधारण तरकस नहीं रखते। राम साफ वायु में खड़े रहे और मुद्रा नहीं बनाई। उनकी तैयारी ध्यान जैसी थी।",
+    "मुनि ने हाथ उठाया। आकाश ने नाम वाली वस्तुओं से उत्तर दिया।"
+   ]
+  },
+  "named": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Named One by One",
+    "The astras came as a catalog, and Rama had to receive each without swagger.",
+    "Fire, wind, the noose, the sleeper, the weapons of the directions. Vishwamitra spoke them. Rama repeated the mastery back, not as a boast but as a student proving the lesson had landed in the muscle.",
+    "Power arrived before comfort. It would keep arriving in that order."
+   ],
+   "hi": [
+    "एक-एक नाम",
+    "अस्त्र सूची बनकर आए, और राम को प्रत्येक को बिना शेखी के लेना था।",
+    "अग्नि, वायु, पाश, निद्रा, दिशाओं के अस्त्र। विश्वामित्र ने उन्हें कहा। राम ने प्रभुत्व लौटाया, डींग नहीं, एक शिष्य की तरह जो सिद्ध करे कि पाठ माँसपेशियों में उतरा है।",
+    "शक्ति सुख से पहले आई। वह इसी क्रम में आती रहेगी।"
+   ]
+  },
+  "accepts": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "He Accepts",
+    "A weapon you cannot withdraw is not a gift. These could be called back.",
+    "That was the ethics hidden in the machinery. Rama learned the releasing and the unsaying. Lakshmana received his share and did not ask for Rama's. The hierarchy between them was love, not rivalry.",
+    "The forest, which had just lost Tataka, now held a boy who could unmake more than a demon if he was careless. He intended not to be."
+   ],
+   "hi": [
+    "वह स्वीकार करता है",
+    "जिसे वापस न बुला सको वह वरदान नहीं। इन्हें वापस बुलाया जा सकता था।",
+    "यंत्र के भीतर छिपी नैतिकता यही थी। राम ने छोड़ना और मिटाना दोनों सीखे। लक्ष्मण ने अपना भाग लिया और राम का नहीं माँगा। उनके बीच का क्रम प्रेम था, स्पर्धा नहीं।",
+    "जिस वन ने अभी ताटका खोई थी, उसमें अब एक बालक था जो लापरवाह होने पर राक्षस से अधिक मिटा सकता था। उसका इरादा लापरवाह न होने का था।"
+   ]
+  },
+  "siddha": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Siddhashrama",
+    "They reached the ashram where the sacrifice had been waiting like a held breath.",
+    "Vishwamitra said this ground had an older story: Vishnu, in another descent, had stood here and bound a king's pride. The present work was smaller and the same. Protect the fire until it finishes.",
+    "Rama and Lakshmana took the edges of the rite the way sentries take a wall."
+   ],
+   "hi": [
+    "सिद्धाश्रम",
+    "वे उस आश्रम पहुँचे जहाँ यज्ञ रुकी साँस की तरह प्रतीक्षा कर रहा था।",
+    "विश्वामित्र ने कहा इस भूमि की पुरानी कथा है: विष्णु, एक और अवतार में, यहाँ खड़े हुए और एक राजा के गर्व को बाँधा। वर्तमान काम छोटा है और वही है। अग्नि की रक्षा करो जब तक वह पूरी न हो।",
+    "राम और लक्ष्मण यज्ञ के किनारों पर ऐसे डटे जैसे प्रहरी दीवार पर।"
+   ]
+  },
+  "six-nights": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Six Nights",
+    "The demons did not come at once. Waiting was part of their weapon.",
+    "The brothers stood while priests chanted and the fire behaved. Youth discovers, in such hours, that glory is mostly not falling asleep at your post. Lakshmana took the later watches. Rama took the responsibility either way.",
+    "On the sixth night the sky tore."
+   ],
+   "hi": [
+    "छह रातें",
+    "राक्षस तुरंत नहीं आए। प्रतीक्षा उनके अस्त्र का अंश थी।",
+    "भाई खड़े रहे, पुरोहित पढ़ते रहे, अग्नि शांत रही। ऐसे घंटों में युवा जानता है कि गौरव अधिकतर अपनी चौकी पर न सोना है। लक्ष्मण ने पिछली पहर ली। ज़िम्मेदारी दोनों तरह राम की रही।",
+    "छठी रात आकाश फटा।"
+   ]
+  },
+  "they-come": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Maricha and Subahu",
+    "They came with blood in vessels, the old filth, poured toward the fire.",
+    "It was not a duel arranged for poets. It was an interruption meant to make the holy disgusting. Rama saw Maricha, Tataka's son, and did not confuse the son with the mother he had already ended.",
+    "Two targets. Two different sentences."
+   ],
+   "hi": [
+    "मारीच और सुबाहु",
+    "वे पात्रों में रक्त लेकर आए, पुराना अपवित्र, अग्नि की ओर उंडेला।",
+    "यह कवियों के लिए सजा द्वंद्व नहीं था। यह व्यवधान था ताकि पवित्र घिनौना हो जाए। राम ने मारीच को देखा, ताटका के पुत्र को, और पुत्र को उस माता से नहीं मिलाया जिसे वह समाप्त कर चुका था।",
+    "दो लक्ष्य। दो भिन्न वाक्य।"
+   ]
+  },
+  "flung": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Flung Across the Sea",
+    "Rama's arrow did not merely kill Maricha. It threw him.",
+    "The demon flew, a body becoming distance, and crashed into the ocean a hundred yojanas off, alive and finished with this forest. Subahu was not given that mercy. He fell here, and stayed fallen.",
+    "The fire did not go out. That was the victory the sage had walked to Ayodhya to buy."
+   ],
+   "hi": [
+    "समुद्र पार फेंका",
+    "राम के बाण ने मारीच को केवल नहीं मारा। उसे फेंका।",
+    "राक्षस उड़ा, देह दूरी बन गई, और सौ योजन दूर समुद्र में गिरा, जीवित और इस वन से समाप्त। सुबाहु को वह दया नहीं मिली। वह यहीं गिरा, और गिरा रहा।",
+    "अग्नि नहीं बुझी। वही विजय थी जिसे पाने मुनि अयोध्या तक चले थे।"
+   ]
+  },
+  "fire-done": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Fire Finishes",
+    "Morning came to a sacrifice that had been allowed to complete.",
+    "Vishwamitra's face, which was not a face that performed gratitude, performed it anyway. He told the brothers to rest. They had done the errand. The king of Ayodhya would get his son back.",
+    "He did not say the road home would be a straight line. There was a city called Mithila, and a bow lying in it like a closed fate."
+   ],
+   "hi": [
+    "अग्नि पूरी होती है",
+    "सुबह एक ऐसे यज्ञ पर आई जिसे पूरा होने दिया गया था।",
+    "विश्वामित्र का मुख, जो कृतज्ञता का अभिनय नहीं करता, फिर भी कृतज्ञ हुआ। उन्होंने भाइयों से विश्राम को कहा। काम हो चुका था। अयोध्या का राजा अपने पुत्र को वापस पाएगा।",
+    "उन्होंने नहीं कहा कि घर का मार्ग सीधी रेखा होगा। मिथिला नाम का नगर था, और उसमें एक धनुष बंद भाग्य की तरह पड़ा था।"
+   ]
+  },
+  "toward": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Toward Mithila",
+    "They did not turn immediately back. The sage had more ground he wanted them to walk.",
+    "Janaka's city lay ahead, and between here and there the land was a library. Vishwamitra traveled by story as much as by road. Rama and Lakshmana learned that a journey with him would be longer on the inside than on the map.",
+    "The first tale waited at the next turn of the path."
+   ],
+   "hi": [
+    "मिथिला की ओर",
+    "वे तुरंत वापस नहीं मुड़े। मुनि और भूमि चलवाना चाहते थे।",
+    "जनक का नगर आगे था, और यहाँ से वहाँ तक भूमि एक पुस्तकालय थी। विश्वामित्र कथा से भी यात्रा करते थे, मार्ग से भी। राम और लक्ष्मण ने सीखा कि उनके साथ यात्रा नक्शे से भीतर लंबी होगी।",
+    "पहली कथा पथ के अगले मोड़ पर प्रतीक्षा कर रही थी।"
+   ]
+  },
+  "begins-tale": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "He Begins a Tale",
+    "Where other guides point at rivers, this one pointed at causes.",
+    "This countryside is not empty of events, he said. A god of desire walked here. A mountain caught a river. A woman waited as stone. If you only look at the trees you will think you are in a forest. You are in a memory.",
+    "Rama adjusted his pace to the pace of telling."
+   ],
+   "hi": [
+    "वे कथा शुरू करते हैं",
+    "जहाँ अन्य पथप्रदर्शक नदियाँ दिखाते हैं, ये कारण दिखाते थे।",
+    "यह प्रदेश घटनाओं से खाली नहीं, उन्होंने कहा। कामदेव यहाँ चले। एक पर्वत ने नदी पकड़ी। एक स्त्री पत्थर बनकर रुकी। यदि तुम केवल वृक्ष देखोगे तो सोचोगे वन में हो। तुम स्मृति में हो।",
+    "राम ने कदम कथा की गति पर रखे।"
+   ]
+  },
+  "kama-sent": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Kama Is Sent",
+    "The gods, impatient with Shiva's austerity, sent desire to break it.",
+    "Kama went with a bow of sugarcane and arrows of flowers, which sounds gentle until you remember the target was the lord who had burned worlds by opening an eye. A mission can be made of blossoms and still be a suicide.",
+    "Rati, his wife, knew. She went anyway, because love does not always improve the odds."
+   ],
+   "hi": [
+    "काम को भेजा गया",
+    "देवता, शिव की तपस्या से अधीर, उसे तोड़ने काम को भेजे।",
+    "काम गन्ने का धनुष और फूलों के बाण लेकर गए, जो कोमल लगता है जब तक याद न हो कि लक्ष्य वह प्रभु था जिसकी आँख खुलने से लोक जले। अभियान पुष्पों का हो और फिर भी आत्मघात हो।",
+    "रति, उनकी पत्नी, जानती थीं। फिर भी गईं, क्योंकि प्रेम संभावनाएँ हमेशा नहीं सुधारता।"
+   ]
+  },
+  "sugarcane": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Sugarcane Bow",
+    "He drew on Shiva while the great yogi sat like a shut door.",
+    "The arrow was spring. It touched the meditation the way scent touches a sleeper. For a moment even that stillness leaned toward Parvati, toward the world of pairs.",
+    "Then Shiva knew who had knocked, and the kindness of flowers was over."
+   ],
+   "hi": [
+    "गन्ने का धनुष",
+    "उन्होंने शिव पर प्रत्यंचा चढ़ाई जब महायोगी बंद द्वार की तरह बैठे थे।",
+    "बाण वसंत था। उसने समाधि को वैसे छुआ जैसे गंध सोए हुए को छुए। एक क्षण को वह स्थिरता भी पार्वती की ओर झुकी, जोड़ों वाले संसार की ओर।",
+    "फिर शिव ने जाना किसने दस्तक दी, और फूलों की दया समाप्त हुई।"
+   ]
+  },
+  "third-eye": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "The Eye Opens",
+    "A point of fire on the brow, and Kama was ash.",
+    "No battle. A glance that was a furnace. The god of desire ended as a smear of gray on the air, and the gods who had sent him learned again that Shiva is not an instrument.",
+    "Rati's cry is the part the poem does not skip. A victory over desire still leaves a widow."
+   ],
+   "hi": [
+    "नेत्र खुलता है",
+    "भृकुटि पर अग्नि का बिंदु, और काम भस्म।",
+    "कोई युद्ध नहीं। एक दृष्टि जो भट्ठी थी। कामदेव वायु पर धूसर लेप बनकर समाप्त हुए, और भेजने वाले देवताओं ने फिर सीखा कि शिव उपकरण नहीं हैं।",
+    "रति का क्रंदन वह अंश है जिसे कविता नहीं काटती। काम पर विजय भी एक विधवा छोड़ती है।"
+   ]
+  },
+  "kama-ash": {
+   "kanda": "Bala Kanda",
+   "en": [
+    "Ananga",
+    "After that, desire had no body, which did not mean desire had no power.",
+    "He became Ananga, the bodiless one, which is a worse haunting than a man you can see. Shiva returned to stillness. The mountain kept a memory of heat.",
+    "Rama, hearing this with a bow on his own shoulder, understood that weapons are not the only things that undo a person."
+   ],
+   "hi": [
+    "अनंग",
+    "उसके बाद काम की देह नहीं रही, जिसका अर्थ यह नहीं कि काम की शक्ति नहीं रही।",
+    "वे अनंग हुए, देहहीन, जो दिखाई देने वाले पुरुष से बुरा प्रेत है। शिव स्थिरता में लौटे। पर्वत ने ताप की स्मृति रखी।",
+    "राम, अपने कंधे पर धनुष रखकर यह सुनते हुए, समझे कि मनुष्य को केवल अस्त्र नहीं बिगाड़ते।"
+   ]
+  }
+ }
+}
